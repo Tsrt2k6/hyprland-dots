@@ -1,0 +1,1 @@
+def longest_series_of_neighbours()

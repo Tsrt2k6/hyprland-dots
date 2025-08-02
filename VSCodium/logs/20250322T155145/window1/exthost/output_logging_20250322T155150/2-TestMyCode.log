@@ -1,0 +1,22 @@
+[2025-03-22 07:51:54:054] [INFO] Starting moocfi.test-my-code in "production" mode.
+[2025-03-22 07:51:54:055] [INFO] VSCodium version: 1.97.2
+[2025-03-22 07:51:54:055] [INFO] moocfi.test-my-code version: 3.2.0
+[2025-03-22 07:51:54:055] [INFO] Currently open workspace: mooc-programming-25 (Workspace)
+[2025-03-22 07:51:54:055] [INFO] Platform linux Arch x64
+[2025-03-22 07:51:54:055] [INFO] TMC-Langs version: tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1
+[2025-03-22 07:51:54:069] [INFO] Running "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/cli/tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1" "tmc" "--client-name" "vscode_plugin" "--client-version" "3.2.0" "logged-in"
+[2025-03-22 07:51:54:070] [DEBUG] TMC backend at https://tmc.mooc.fi
+[2025-03-22 07:51:54:070] [DEBUG] MOOC backend at https://courses.mooc.fi
+[2025-03-22 07:51:54:070] [DEBUG] Config dir at undefined
+[2025-03-22 07:51:54:274] [DEBUG] stderr
+[2025-03-22T07:51:54Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-22 07:51:54:919] [INFO] Running "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/cli/tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1" "settings" "--client-name" "vscode_plugin" "get" "projects-dir"
+[2025-03-22 07:51:54:919] [DEBUG] TMC backend at https://tmc.mooc.fi
+[2025-03-22 07:51:54:919] [DEBUG] MOOC backend at https://courses.mooc.fi
+[2025-03-22 07:51:54:919] [DEBUG] Config dir at undefined
+[2025-03-22 07:51:54:941] [DEBUG] stderr
+[2025-03-22T07:51:54Z DEBUG tmc_langs] fetching setting projects-dir in vscode_plugin
+[2025-03-22T07:51:54Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-22T07:51:54Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+

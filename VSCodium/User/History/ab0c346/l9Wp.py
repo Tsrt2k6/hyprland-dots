@@ -1,0 +1,41 @@
+def convert(file_name):
+    with open(file_name) as file:
+        text = file.read()
+        recipes = text.split("\n\n")
+        copy = []
+        for recipe in recipes:
+            items = recipe.split("\n")
+            ingredients = items[2:]
+            items = items[:3]
+            items.append(ingredients)
+            items[1] = int(items[1])
+            copy.append(items)
+    return copy
+
+def search_by_name(file_name, word):
+    recipes = convert(file_name)
+    names = []
+    for recipe in recipes:
+        name = recipe[0]
+        if word.lower() in name.lower():
+            names.append(name)
+    return names
+
+def search_by_time(file_name, prep_time):
+    recipes = convert(file_name)
+    names = []
+    for recipe in recipes:
+        name = recipe[0]
+        time = recipe[1]
+        if time <= prep_time:
+            names.append(f"{name}, preparation time {time} min")
+    return names
+
+def search_by_ingredient(file_name, ingredient):
+    recipes = convert(file_name)
+    names = []
+    for recipe in recipes:
+        name, time, ingredients = recipe
+        if ingredient in ingredients:
+            names.append(f"{name}, preparation time {time} min")
+    return names

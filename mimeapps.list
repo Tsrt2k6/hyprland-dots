@@ -1,0 +1,4 @@
+[Added Associations]
+application/json=kitty.desktop;
+application/x-xpinstall=firefox.desktop;xarchiver.desktop;
+application/zip=firefox.desktop;

@@ -1,0 +1,12 @@
+2024-05-18 23:11:36.596 [info] update#setState idle
+2024-05-18 23:12:06.603 [info] update#setState checking for updates
+2024-05-18 23:12:06.632 [info] update#setState idle
+2024-05-18 23:23:20.666 [info] Extension host with pid 9461 exited with code: 0, signal: unknown.
+2024-05-18 23:25:07.488 [info] Extension host with pid 9945 exited with code: 0, signal: unknown.
+2024-05-18 23:25:44.162 [info] Extension host with pid 10934 exited with code: 0, signal: unknown.
+2024-05-18 23:25:49.782 [info] Extension host with pid 11319 exited with code: 0, signal: unknown.
+2024-05-18 23:30:32.459 [info] Extension host with pid 11465 exited with code: 0, signal: unknown.
+2024-05-18 23:35:49.244 [info] Extension host with pid 2496 exited with code: 0, signal: unknown.
+2024-05-18 23:35:50.246 [error] Extension host with pid 2496 still exists, forcefully killing it...
+2024-05-19 00:13:17.695 [info] update#setState checking for updates
+2024-05-19 00:13:17.802 [info] update#setState idle

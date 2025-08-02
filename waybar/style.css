@@ -1,0 +1,176 @@
+/* @import '/home/tsrt/.cache/wal/colors-waybar.css'; */
+@import '/home/tsrt/.cache/hellwal/waybar-colors.css';
+
+* {
+  font-size: 16px;
+  font-family: "Quicksand";
+  font-weight: 700;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+
+window#waybar {
+    background: rgba(0,0,0,0);
+}
+
+#battery {
+  border: 0px;
+  border-style: solid;
+  border-top-style: hidden;
+  border-left-style: hidden;
+  border-color: @color13;
+  margin: 0px 3px 0px 0px;
+  background: rgba(0,0,0,0.5);
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 5px;
+  padding: 0px 10px 1px 1px;
+  color: #FFF;
+}
+#wireplumber {
+  border: 0px;
+  border-style: solid;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-color: @color13;
+  margin: 0px 0px 0px 0px;
+  background: rgba(0,0,0,0.5);
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 5px;
+  padding: 0px 1px 1px 10px;
+  color: #FFF;
+}
+#custom-icon {
+  padding: 0px 10px 0px 10px;
+  margin: 0px 3px 0px 0px;
+  background: rgba(0,0,0,0.5);
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 10px;
+}
+#custom-icon2 {
+  padding: 0px 14px 0px 10px;
+  margin: 0px 3px 0px 0px;
+  background: @color14;
+  border-radius: 11px;
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  color: rgba(0,0,0,0.5);
+}
+#cpu {
+  padding: 0px 15px 0px 10px;
+  margin: 0px 3px 0px 0px;
+  background: rgba(0,0,0,0.5);
+  border-radius: 15px;
+}
+#memory {
+  padding: 0px 15px 0px 10px;
+  margin: 0px 3px 0px 0px;
+  background: rgba(0,0,0,0.5);
+  border-radius: 15px;
+}
+#disk {
+  padding: 0px 10px 0px 10px;
+  margin: 0px 3px 0px 0px;
+  background: rgba(0,0,0,0.5);
+  border-radius: 15px;
+}
+#taskbar button {
+  padding: 0px 8px 0px 10px;
+  margin: 0px 3px 0px 0px;
+  background: rgba(0,0,0,0.5);
+}
+#taskbar button.active {
+  border-top: 0px solid @color14;
+  padding: 0px 8px 0px 10px;
+  margin: 0px 3px -2px 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+#custom-notification {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 15px 1px 10px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 15px;
+  background: rgba(0,0,0,0.5);
+  color: #FFF;
+}
+
+#clock {
+  font-weight: 600;
+  font-style: normal;
+  border: 0px;
+  border-style: solid;
+  border-top-style: hidden;
+  border-right-style: solid;
+  border-color: @color13;
+  margin: 0px 3px 0px 0px;
+  padding: 0px 1px 1px;
+  color: #FFF;
+  background: rgba(0,0,0,0.5);
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  color: #FFF;
+}
+#workspaces button {
+    padding: 0 10 0px;
+    margin: 0px;
+    background: transparent;
+    color: white;
+    border-radius: 0px;
+}
+
+#workspaces button.active {
+    padding: 0 10 0px;
+    margin: 0px;
+    color: #FFF;
+}
+
+#workspaces {
+  margin: 0px 3px 0px 0px;
+  padding: 0px 5px 0px 0px;
+  color: #FFF;
+  background: rgba(0,0,0,0.5);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-radius: 10px;
+  color: #c5c8c6;
+}
+
+#backlight {
+  border: 0px;
+  border-style: hidden hidden solid;
+  border-color: @color13;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 1px 1px;
+  background: rgba(0,0,0,0.5);
+  color: #FFF;
+}
+
+#network {
+  border: 0px;
+  border-style: solid;
+  border-top-style: hidden;
+  border-color: @color13;
+  background: rgba(0,0,0,0.5);
+  color: #FFF;
+  margin: 0px 3px 0px 0px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 5px;
+  padding: 0px 1px 1px;
+}
+#tray {
+  border: 0px;
+  border-style: solid;
+  border-top-style: hidden;
+  border-color: @color13;
+  background: rgba(0,0,0,0.5);
+  margin: 0px 3px 0px 0px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 0px 10px 1px;
+}

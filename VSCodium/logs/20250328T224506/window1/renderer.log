@@ -1,0 +1,77 @@
+2025-03-28 22:45:08.479 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-28 22:45:08.479 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-28 22:45:08.480 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-28 22:45:08.480 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-28 22:45:10.476 [info] Started local extension host with pid 1969.
+2025-03-28 22:45:19.772 [info] [perf] Render performance baseline is 118ms
+2025-03-28 23:49:47.511 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-28 23:49:49.252 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-28 23:49:50.292 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-28 23:49:55.257 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-28 23:49:57.298 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-28 23:49:59.154 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-28 23:50:00.243 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-28 23:52:13.846 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-29 00:02:08.805 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-29 00:27:18.967 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-29 01:24:37.237 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-29 01:24:37.238 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-29 01:24:37.238 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-29 01:24:37.239 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-29 01:24:37.727 [info] Started local extension host with pid 89078.
+2025-03-29 01:24:40.838 [info] [perf] Render performance baseline is 54ms
+2025-03-29 01:25:37.614 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-29 01:25:37.614 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-29 01:25:37.615 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-29 01:25:37.615 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-29 01:25:38.001 [info] Started local extension host with pid 89816.
+2025-03-29 01:25:40.893 [info] [perf] Render performance baseline is 55ms
+2025-03-29 01:26:24.706 [error] UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-29 02:07:28.255 [error] Server[pid=118053] disconnected unexpectedly: CodeExpectedError: Server[pid=118053] disconnected unexpectedly
+    at Bet.handleErrorResponse (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2200:18489)
+    at vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2200:18001
+    at async Wet.fetchThreads (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2200:35801)

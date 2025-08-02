@@ -1,0 +1,256 @@
+2025-03-28 22:45:15.470 [info] Telemetry level is off
+2025-03-28 22:45:15.470 [info] Experiments are disabled, only manually opted experiments are active.
+2025-03-28 22:45:15.470 [warning] Dir "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/workspaces/.tmc/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.470 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-01_hypotenuse/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-02_special_characters/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-03_fractions/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-04_lottery_numbers/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-05_password_generator_part_1/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-06_password_generator_part_2/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-07_dice_roller/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-08_random_words/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-09_how_old/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-10_valid_pic/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.471 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.pixi/envs" is not watchable (directory does not exist)
+2025-03-28 22:45:15.998 [info] Python interpreter path: /bin/python
+2025-03-28 22:45:17.224 [info] > pyenv which python
+2025-03-28 22:45:17.224 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+2025-03-28 22:45:20.746 [info] Starting Jedi language server for part07-17_string_helper.
+2025-03-28 22:53:43.019 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:55:00.523 [info] CreateEnv Trigger - Skipping for /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:55:00.709 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src
+2025-03-28 22:55:00.753 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:55:01.016 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:55:52.320 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:57:06.085 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src
+2025-03-28 22:57:06.086 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:57:06.334 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:57:18.924 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:57:32.586 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src
+2025-03-28 22:57:32.587 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:57:32.836 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 22:57:42.328 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:00:22.972 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src
+2025-03-28 23:00:22.974 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:00:23.114 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:00:31.590 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:01:45.909 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src
+2025-03-28 23:01:45.910 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:01:46.159 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:02:45.266 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:03:12.622 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:03:45.782 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:04:41.726 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:05:09.452 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/test.py
+2025-03-28 23:05:18.681 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src
+2025-03-28 23:05:18.682 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/test.py
+2025-03-28 23:05:18.931 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/test.py
+2025-03-28 23:07:50.352 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:08:14.604 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/src/string_helper.py
+2025-03-28 23:13:49.384 [info] Starting Environment refresh
+2025-03-28 23:13:49.402 [info] > hatch env show --json
+2025-03-28 23:13:49.402 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+2025-03-28 23:13:49.444 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-03-28 23:13:49.444 [info] Environments refresh paths discovered: 61 milliseconds
+2025-03-28 23:13:49.559 [info] Environments refresh finished (event): 176 milliseconds
+2025-03-28 23:13:49.565 [info] Environment refresh took 184 milliseconds
+2025-03-28 23:13:49.576 [info] > pyenv which python
+2025-03-28 23:13:49.576 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+2025-03-28 23:13:51.480 [info] Starting Jedi language server for part07-18_own_programming_language.
+2025-03-28 23:13:52.807 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:15:32.596 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:17:17.239 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:20:12.206 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:20:40.801 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:22:11.961 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:23:28.891 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:23:34.050 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src
+2025-03-28 23:23:34.342 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:23:54.576 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:24:18.024 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:24:55.295 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src
+2025-03-28 23:24:55.296 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:24:55.544 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:25:03.607 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:25:56.734 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:26:08.163 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:26:24.801 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:26:49.125 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:26:59.690 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:29:20.651 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:30:14.013 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:30:22.485 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:30:49.717 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:31:57.278 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:36:31.977 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:37:13.686 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:38:22.830 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:38:57.431 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:39:10.566 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:40:00.871 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:40:56.717 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:41:39.703 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:42:06.595 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:43:09.171 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:44:00.234 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:44:59.305 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:45:15.558 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:45:29.433 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:45:44.648 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:46:01.367 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:49:09.154 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:50:08.694 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:50:21.522 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:51:50.657 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:56:22.532 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:58:52.220 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-28 23:59:05.333 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:00:01.043 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src
+2025-03-29 00:00:01.045 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:00:01.294 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:01:07.796 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:01:29.752 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:02:51.042 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:04:48.258 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:05:55.977 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:06:12.187 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:07:40.928 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:07:52.713 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:08:13.620 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:08:38.310 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:09:03.957 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:11:53.641 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:13:31.753 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:13:42.873 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:14:01.864 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:15:14.226 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:15:32.512 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:16:48.034 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:17:44.741 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:18:06.984 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src
+2025-03-29 00:18:06.985 [info] Send text to terminal: /bin/python /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:18:07.127 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:18:38.393 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:22:01.581 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:26:43.344 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:28:01.027 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 00:28:31.431 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py
+2025-03-29 01:24:18.738 [info] Searching for interpreters in posix paths locator
+2025-03-29 01:24:18.742 [info] Searching for pyenv environments
+2025-03-29 01:24:18.742 [info] Searching for conda environments
+2025-03-29 01:24:18.743 [info] Searching for global virtual environments
+2025-03-29 01:24:18.743 [info] Searching for custom virtual environments
+2025-03-29 01:24:18.749 [info] pyenv is not installed
+2025-03-29 01:24:18.749 [info] Finished searching for pyenv environments: 9 milliseconds
+2025-03-29 01:24:18.749 [info] Finished searching for custom virtual envs: 7 milliseconds
+2025-03-29 01:24:18.764 [info] > conda info --json
+2025-03-29 01:24:18.776 [info] > hatch env show --json
+2025-03-29 01:24:18.776 [info] cwd: .
+2025-03-29 01:24:18.779 [info] Finished searching for global virtual envs: 38 milliseconds
+2025-03-29 01:24:18.790 [info] Found: /bin/python --> /bin/python3.13
+2025-03-29 01:24:18.792 [info] Found: /bin/python3 --> /bin/python3.13
+2025-03-29 01:24:18.792 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-03-29 01:24:18.836 [info] Found: /sbin/python --> /sbin/python3.13
+2025-03-29 01:24:18.836 [info] Found: /sbin/python3 --> /sbin/python3.13
+2025-03-29 01:24:18.836 [info] Found: /sbin/python3.13 --> /sbin/python3.13
+2025-03-29 01:24:18.846 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-03-29 01:24:18.846 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-03-29 01:24:18.846 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-03-29 01:24:18.913 [info] Found: /usr/sbin/python --> /usr/sbin/python3.13
+2025-03-29 01:24:18.914 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.13
+2025-03-29 01:24:18.915 [info] Found: /usr/sbin/python3.13 --> /usr/sbin/python3.13
+2025-03-29 01:24:18.946 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-03-29 01:24:18.975 [info] Finished searching for interpreters in posix paths locator: 229 milliseconds
+2025-03-29 01:24:18.975 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-03-29 01:24:19.000 [info] Environments refresh paths discovered (event): 267 milliseconds
+2025-03-29 01:24:19.001 [info] Environments refresh paths discovered: 268 milliseconds
+2025-03-29 01:24:19.058 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-03-29 01:24:19.165 [info] Environments refresh finished (event): 432 milliseconds
+2025-03-29 01:24:19.174 [info] Searching for interpreters in posix paths locator
+2025-03-29 01:24:19.175 [info] Searching for pyenv environments
+2025-03-29 01:24:19.175 [info] Searching for conda environments
+2025-03-29 01:24:19.175 [info] Searching for global virtual environments
+2025-03-29 01:24:19.175 [info] Searching for custom virtual environments
+2025-03-29 01:24:19.177 [info] pyenv is not installed
+2025-03-29 01:24:19.177 [info] Finished searching for pyenv environments: 3 milliseconds
+2025-03-29 01:24:19.178 [info] Finished searching for custom virtual envs: 3 milliseconds
+2025-03-29 01:24:19.178 [info] Finished searching for global virtual envs: 3 milliseconds
+2025-03-29 01:24:19.189 [info] Found: /bin/python --> /bin/python3.13
+2025-03-29 01:24:19.190 [info] Found: /bin/python3 --> /bin/python3.13
+2025-03-29 01:24:19.191 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-03-29 01:24:19.231 [info] Found: /sbin/python --> /sbin/python3.13
+2025-03-29 01:24:19.232 [info] Found: /sbin/python3 --> /sbin/python3.13
+2025-03-29 01:24:19.232 [info] Found: /sbin/python3.13 --> /sbin/python3.13
+2025-03-29 01:24:19.241 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-03-29 01:24:19.241 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-03-29 01:24:19.242 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-03-29 01:24:19.282 [info] Found: /usr/sbin/python --> /usr/sbin/python3.13
+2025-03-29 01:24:19.283 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.13
+2025-03-29 01:24:19.283 [info] Found: /usr/sbin/python3.13 --> /usr/sbin/python3.13
+2025-03-29 01:24:19.304 [info] Finished searching for interpreters in posix paths locator: 132 milliseconds
+2025-03-29 01:24:19.313 [info] Environments refresh paths discovered (event): 141 milliseconds
+2025-03-29 01:24:19.314 [info] Environments refresh finished (event): 141 milliseconds
+2025-03-29 01:24:19.314 [info] Environments refresh paths discovered: 142 milliseconds
+2025-03-29 01:25:01.575 [info] Telemetry level is off
+2025-03-29 01:25:01.575 [info] Experiments are disabled, only manually opted experiments are active.
+2025-03-29 01:25:01.577 [info] Python interpreter path: /bin/python
+2025-03-29 01:25:04.155 [info] Starting Jedi language server for default.
+2025-03-29 01:25:43.500 [info] Telemetry level is off
+2025-03-29 01:25:43.500 [info] Experiments are disabled, only manually opted experiments are active.
+2025-03-29 01:25:43.500 [warning] Dir "/home/tsrt/Documents/DSA/Week 1/.pixi/envs" is not watchable (directory does not exist)
+2025-03-29 01:25:43.500 [info] Starting Environment refresh
+2025-03-29 01:25:43.500 [info] > hatch env show --json
+2025-03-29 01:25:43.500 [info] cwd: ~/Documents/DSA/Week 1
+2025-03-29 01:25:43.500 [info] Python interpreter path: /bin/python
+2025-03-29 01:25:43.536 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-03-29 01:25:43.536 [info] Environments refresh paths discovered: 108 milliseconds
+2025-03-29 01:25:43.546 [info] Starting Environment refresh
+2025-03-29 01:25:43.562 [info] Environments refresh paths discovered: 16 milliseconds
+2025-03-29 01:25:43.750 [info] Environments refresh finished (event): 322 milliseconds
+2025-03-29 01:25:43.750 [info] Environments refresh finished (event): 204 milliseconds
+2025-03-29 01:25:43.825 [info] Environment refresh took 399 milliseconds
+2025-03-29 01:25:43.828 [info] Environment refresh took 282 milliseconds
+2025-03-29 01:25:43.860 [info] > pyenv which python
+2025-03-29 01:25:43.860 [info] cwd: ~/Documents/DSA/Week 1
+2025-03-29 01:25:46.123 [info] Starting Jedi language server for Week 1.
+2025-03-29 01:26:16.282 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/pass.py
+2025-03-29 01:26:40.763 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/Candies.py
+2025-03-29 01:30:58.675 [info] CreateEnv Trigger - Skipping for /home/tsrt/Documents/DSA/Week 1/Candies.py
+2025-03-29 01:30:58.814 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 01:30:58.947 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/Candies.py
+2025-03-29 01:30:59.323 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/Candies.py"
+2025-03-29 01:31:07.845 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/Candies.py
+2025-03-29 01:37:09.936 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 01:37:09.937 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/inversions.py"
+2025-03-29 01:37:10.185 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/inversions.py
+2025-03-29 01:37:45.292 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 01:37:45.293 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/inversions.py"
+2025-03-29 01:37:45.542 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/inversions.py
+2025-03-29 01:40:55.397 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 01:40:55.398 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/samebits.py"
+2025-03-29 01:40:55.646 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/samebits.py
+2025-03-29 01:41:58.071 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 01:41:58.072 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/samebits.py"
+2025-03-29 01:41:58.321 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/samebits.py
+2025-03-29 01:42:45.031 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 01:42:45.033 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/samebits.py"
+2025-03-29 01:42:45.282 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/samebits.py
+2025-03-29 01:42:54.115 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/samebits.py
+2025-03-29 01:43:15.062 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/samebits.py
+2025-03-29 01:59:10.658 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/repeat.py
+2025-03-29 02:03:17.952 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 02:03:17.953 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/repeat.py"
+2025-03-29 02:03:18.203 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/repeat.py
+2025-03-29 02:04:25.017 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/repeat.py
+2025-03-29 02:04:59.631 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/repeat.py
+2025-03-29 02:05:31.743 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/repeat.py
+2025-03-29 02:05:44.334 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/repeat.py
+2025-03-29 02:06:01.166 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/repeat.py
+2025-03-29 02:09:54.332 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/repeat.py

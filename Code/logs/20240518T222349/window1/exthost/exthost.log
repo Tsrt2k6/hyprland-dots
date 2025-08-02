@@ -1,0 +1,29 @@
+2024-05-18 22:23:55.337 [info] Extension host with pid 33032 started
+2024-05-18 22:23:55.391 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-18 22:23:55.455 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-18 22:23:55.688 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-18 22:23:56.130 [info] Eager extensions activated
+2024-05-18 22:23:56.279 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 22:23:56.287 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 22:24:07.860 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-18 22:24:31.704 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-18 22:24:31.906 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-18 22:27:02.205 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onWalkthrough:cppWelcome'
+2024-05-18 22:28:05.294 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-18 22:28:05.482 [info] Extension host with pid 33032 exiting with code 0
+2024-05-18 22:28:09.000 [info] Extension host with pid 35367 started
+2024-05-18 22:28:09.000 [info] Skipping acquiring lock for /home/tsrt/.config/Code/User/workspaceStorage/e9a9ee3b18660e3435a0867eeb1bd8fa.
+2024-05-18 22:28:09.138 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-05-18 22:28:09.158 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-18 22:28:09.211 [info] Eager extensions activated
+2024-05-18 22:28:09.213 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 22:28:09.219 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 22:28:17.605 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-05-18 22:28:17.662 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onWalkthrough:cppWelcome'
+2024-05-18 22:28:46.188 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-18 22:29:44.447 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-18 22:29:44.493 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-18 22:40:28.507 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-05-18 22:50:16.212 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onView:github.codespaces.explorer'
+2024-05-18 22:50:17.445 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'api', root cause: GitHub.codespaces
+2024-05-18 22:50:56.869 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'

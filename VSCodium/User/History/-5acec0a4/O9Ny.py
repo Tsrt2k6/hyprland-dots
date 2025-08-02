@@ -1,0 +1,21 @@
+from random import randint
+import time
+
+start_time = time.time()
+
+def count_even(numbers):
+    result = 0
+    for x in numbers:
+        if x % 2 == 0:
+            result += 1
+    return result
+
+store = []
+for num in range(10 ** 5):
+    store.append(randint(0, 9))
+
+print(count_even(store))
+
+end_time = time.time()
+
+print(end_time - start_time)

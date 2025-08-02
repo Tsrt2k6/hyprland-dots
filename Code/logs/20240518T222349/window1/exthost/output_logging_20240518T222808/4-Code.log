@@ -1,0 +1,4 @@
+[Running] cd "/home/tsrt/CS50/" && gcc test.c -o test && "/home/tsrt/CS50/"test
+hello, world
+[Done] exited with code=0 in 0.131 seconds
+

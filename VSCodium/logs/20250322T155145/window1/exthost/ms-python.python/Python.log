@@ -1,0 +1,299 @@
+2025-03-22 15:51:54.254 [info] Telemetry level is off
+2025-03-22 15:51:54.254 [info] Experiments are disabled, only manually opted experiments are active.
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/workspaces/.tmc/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-01_largest_number/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-02_fruit_market/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-03_matrix/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-04_course_grading_part_1/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-05_course_grading_part_2/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-06_course_grading_part_3/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-07_spellchecker/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-08_recipe_search/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-09_city_bikes/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-10_inscription/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-11_diary/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-12_filtering_file_contents/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-13_store_personal_data/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-14_course_grading_part_4/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-15_word_search/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-16_dictionary_file/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-17_read_input/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-18_parameter_validation/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-19_incorrect_lottery_numbers/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:51:54.254 [info] Python interpreter path: /bin/python
+2025-03-22 15:51:54.305 [info] > pyenv which python
+2025-03-22 15:51:54.305 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-12_filtering_file_contents
+2025-03-22 15:51:57.108 [info] Starting Jedi language server for part06-12_filtering_file_contents.
+2025-03-22 15:52:47.839 [info] Searching for interpreters in posix paths locator
+2025-03-22 15:52:47.850 [info] Searching for pyenv environments
+2025-03-22 15:52:47.850 [info] Searching for conda environments
+2025-03-22 15:52:47.851 [info] Searching for global virtual environments
+2025-03-22 15:52:47.851 [info] Searching for custom virtual environments
+2025-03-22 15:52:47.856 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-01_hypotenuse/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-02_special_characters/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-03_fractions/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-04_lottery_numbers/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-05_password_generator_part_1/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-06_password_generator_part_2/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-07_dice_roller/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-08_random_words/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-09_how_old/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-10_valid_pic/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.929 [warning] Dir "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.pixi/envs" is not watchable (directory does not exist)
+2025-03-22 15:52:47.949 [info] > conda info --json
+2025-03-22 15:52:48.328 [info] > hatch env show --json
+2025-03-22 15:52:48.328 [info] cwd: ~/.config/VSCodium/User/globalStorage/moocfi.test-my-code/workspaces/.tmc
+2025-03-22 15:52:48.328 [info] > hatch env show --json
+2025-03-22 15:52:48.328 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-01_largest_number
+2025-03-22 15:52:48.328 [info] > hatch env show --json
+2025-03-22 15:52:48.328 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-02_fruit_market
+2025-03-22 15:52:48.328 [info] > hatch env show --json
+2025-03-22 15:52:48.328 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-03_matrix
+2025-03-22 15:52:48.328 [info] > hatch env show --json
+2025-03-22 15:52:48.328 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-04_course_grading_part_1
+2025-03-22 15:52:48.328 [info] > hatch env show --json
+2025-03-22 15:52:48.328 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-05_course_grading_part_2
+2025-03-22 15:52:48.328 [info] > hatch env show --json
+2025-03-22 15:52:48.328 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-06_course_grading_part_3
+2025-03-22 15:52:48.328 [info] > hatch env show --json
+2025-03-22 15:52:48.328 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-07_spellchecker
+2025-03-22 15:52:48.328 [info] > hatch env show --json
+2025-03-22 15:52:48.328 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-08_recipe_search
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-09_city_bikes
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-10_inscription
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-11_diary
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-12_filtering_file_contents
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-13_store_personal_data
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-14_course_grading_part_4
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-15_word_search
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-16_dictionary_file
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-17_read_input
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-18_parameter_validation
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part06-19_incorrect_lottery_numbers
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-01_hypotenuse
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-02_special_characters
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-03_fractions
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-04_lottery_numbers
+2025-03-22 15:52:48.329 [info] > hatch env show --json
+2025-03-22 15:52:48.329 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-05_password_generator_part_1
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-06_password_generator_part_2
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-07_dice_roller
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-08_random_words
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-09_how_old
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-10_valid_pic
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+2025-03-22 15:52:48.330 [info] > hatch env show --json
+2025-03-22 15:52:48.330 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+2025-03-22 15:52:48.357 [info] pyenv is not installed
+2025-03-22 15:52:48.357 [info] Finished searching for pyenv environments: 513 milliseconds
+2025-03-22 15:52:48.358 [info] Finished searching for custom virtual envs: 510 milliseconds
+2025-03-22 15:52:48.433 [info] Finished searching for global virtual envs: 587 milliseconds
+2025-03-22 15:52:48.495 [info] Found: /bin/python --> /bin/python3.13
+2025-03-22 15:52:48.513 [info] Found: /bin/python3 --> /bin/python3.13
+2025-03-22 15:52:48.516 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-03-22 15:52:48.582 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/python_files/interpreterInfo.py
+2025-03-22 15:52:48.616 [info] Found: /sbin/python --> /sbin/python3.13
+2025-03-22 15:52:48.626 [info] Found: /sbin/python3 --> /sbin/python3.13
+2025-03-22 15:52:48.626 [info] Found: /sbin/python3.13 --> /sbin/python3.13
+2025-03-22 15:52:48.651 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-03-22 15:52:48.652 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-03-22 15:52:48.652 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-03-22 15:52:48.725 [info] Found: /usr/sbin/python --> /usr/sbin/python3.13
+2025-03-22 15:52:48.726 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.13
+2025-03-22 15:52:48.726 [info] Found: /usr/sbin/python3.13 --> /usr/sbin/python3.13
+2025-03-22 15:52:48.756 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/python_files/interpreterInfo.py
+2025-03-22 15:52:48.776 [info] Finished searching for interpreters in posix paths locator: 934 milliseconds
+2025-03-22 15:52:48.776 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/python_files/interpreterInfo.py
+2025-03-22 15:52:48.787 [info] Environments refresh paths discovered (event): 954 milliseconds
+2025-03-22 15:52:48.787 [info] Environments refresh paths discovered: 955 milliseconds
+2025-03-22 15:52:48.844 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/python_files/interpreterInfo.py
+2025-03-22 15:52:48.928 [info] Environments refresh finished (event): 1095 milliseconds
+2025-03-22 15:52:48.933 [info] Searching for interpreters in posix paths locator
+2025-03-22 15:52:48.935 [info] Searching for pyenv environments
+2025-03-22 15:52:48.936 [info] Searching for conda environments
+2025-03-22 15:52:48.936 [info] Searching for global virtual environments
+2025-03-22 15:52:48.936 [info] Searching for custom virtual environments
+2025-03-22 15:52:48.944 [info] pyenv is not installed
+2025-03-22 15:52:48.944 [info] Finished searching for pyenv environments: 9 milliseconds
+2025-03-22 15:52:48.944 [info] Finished searching for custom virtual envs: 9 milliseconds
+2025-03-22 15:52:48.947 [info] Finished searching for global virtual envs: 12 milliseconds
+2025-03-22 15:52:48.963 [info] Found: /bin/python --> /bin/python3.13
+2025-03-22 15:52:48.965 [info] Found: /bin/python3 --> /bin/python3.13
+2025-03-22 15:52:48.965 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-03-22 15:52:48.993 [info] Found: /sbin/python --> /sbin/python3.13
+2025-03-22 15:52:48.993 [info] Found: /sbin/python3 --> /sbin/python3.13
+2025-03-22 15:52:48.993 [info] Found: /sbin/python3.13 --> /sbin/python3.13
+2025-03-22 15:52:48.999 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-03-22 15:52:49.000 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-03-22 15:52:49.000 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-03-22 15:52:49.027 [info] Found: /usr/sbin/python --> /usr/sbin/python3.13
+2025-03-22 15:52:49.028 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.13
+2025-03-22 15:52:49.028 [info] Found: /usr/sbin/python3.13 --> /usr/sbin/python3.13
+2025-03-22 15:52:49.045 [info] Finished searching for interpreters in posix paths locator: 112 milliseconds
+2025-03-22 15:52:49.052 [info] Environments refresh paths discovered (event): 121 milliseconds
+2025-03-22 15:52:49.052 [info] Environments refresh finished (event): 121 milliseconds
+2025-03-22 15:52:49.052 [info] Environments refresh paths discovered: 121 milliseconds
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: .tmc - uri: /home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/workspaces/.tmc
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-01_largest_number - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-01_largest_number
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-02_fruit_market - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-02_fruit_market
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-03_matrix - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-03_matrix
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-04_course_grading_part_1 - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-04_course_grading_part_1
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-05_course_grading_part_2 - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-05_course_grading_part_2
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-06_course_grading_part_3 - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-06_course_grading_part_3
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-07_spellchecker - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-07_spellchecker
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-08_recipe_search - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-08_recipe_search
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-09_city_bikes - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-09_city_bikes
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-10_inscription - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-10_inscription
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-11_diary - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-11_diary
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-12_filtering_file_contents - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-12_filtering_file_contents
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-13_store_personal_data - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-13_store_personal_data
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-14_course_grading_part_4 - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-14_course_grading_part_4
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-15_word_search - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-15_word_search
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-16_dictionary_file - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-16_dictionary_file
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-17_read_input - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-17_read_input
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-18_parameter_validation - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-18_parameter_validation
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part06-19_incorrect_lottery_numbers - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part06-19_incorrect_lottery_numbers
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part07-01_hypotenuse - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-01_hypotenuse
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part07-02_special_characters - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-02_special_characters
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part07-03_fractions - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-03_fractions
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part07-04_lottery_numbers - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-04_lottery_numbers
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part07-05_password_generator_part_1 - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-05_password_generator_part_1
+2025-03-22 15:53:09.650 [info] Discover tests for workspace name: part07-06_password_generator_part_2 - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-06_password_generator_part_2
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-07_dice_roller - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-07_dice_roller
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-08_random_words - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-08_random_words
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-09_how_old - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-09_how_old
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-10_valid_pic - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-10_valid_pic
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-12_json_files - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-13_course_statistics - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-14_who_cheated - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-15_who_cheated_2 - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-16_spellchecker_2 - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-17_string_helper - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+2025-03-22 15:53:09.651 [info] Discover tests for workspace name: part07-18_own_programming_language - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+2025-03-22 15:53:23.396 [info] Searching for interpreters in posix paths locator
+2025-03-22 15:53:23.397 [info] Searching for pyenv environments
+2025-03-22 15:53:23.397 [info] Searching for conda environments
+2025-03-22 15:53:23.397 [info] Searching for global virtual environments
+2025-03-22 15:53:23.397 [info] Searching for custom virtual environments
+2025-03-22 15:53:23.406 [info] pyenv is not installed
+2025-03-22 15:53:23.406 [info] Finished searching for pyenv environments: 9 milliseconds
+2025-03-22 15:53:23.407 [info] Finished searching for custom virtual envs: 10 milliseconds
+2025-03-22 15:53:23.411 [info] Finished searching for global virtual envs: 14 milliseconds
+2025-03-22 15:53:23.424 [info] Found: /bin/python --> /bin/python3.13
+2025-03-22 15:53:23.425 [info] Found: /bin/python3 --> /bin/python3.13
+2025-03-22 15:53:23.425 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-03-22 15:53:23.481 [info] Found: /sbin/python --> /sbin/python3.13
+2025-03-22 15:53:23.482 [info] Found: /sbin/python3 --> /sbin/python3.13
+2025-03-22 15:53:23.482 [info] Found: /sbin/python3.13 --> /sbin/python3.13
+2025-03-22 15:53:23.512 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-03-22 15:53:23.512 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-03-22 15:53:23.515 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-03-22 15:53:23.578 [info] Found: /usr/sbin/python --> /usr/sbin/python3.13
+2025-03-22 15:53:23.578 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.13
+2025-03-22 15:53:23.579 [info] Found: /usr/sbin/python3.13 --> /usr/sbin/python3.13
+2025-03-22 15:53:23.602 [info] Finished searching for interpreters in posix paths locator: 209 milliseconds
+2025-03-22 15:53:23.612 [info] Environments refresh paths discovered (event): 220 milliseconds
+2025-03-22 15:53:23.612 [info] Environments refresh finished (event): 220 milliseconds
+2025-03-22 15:53:23.612 [info] Environments refresh paths discovered: 220 milliseconds
+2025-03-22 15:53:23.614 [info] Searching for interpreters in posix paths locator
+2025-03-22 15:53:23.616 [info] Searching for pyenv environments
+2025-03-22 15:53:23.616 [info] Searching for conda environments
+2025-03-22 15:53:23.616 [info] Searching for global virtual environments
+2025-03-22 15:53:23.616 [info] Searching for custom virtual environments
+2025-03-22 15:53:23.624 [info] pyenv is not installed
+2025-03-22 15:53:23.624 [info] Finished searching for pyenv environments: 8 milliseconds
+2025-03-22 15:53:23.624 [info] Finished searching for custom virtual envs: 9 milliseconds
+2025-03-22 15:53:23.627 [info] Finished searching for global virtual envs: 12 milliseconds
+2025-03-22 15:53:23.638 [info] Found: /bin/python --> /bin/python3.13
+2025-03-22 15:53:23.638 [info] Found: /bin/python3 --> /bin/python3.13
+2025-03-22 15:53:23.639 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-03-22 15:53:23.680 [info] Found: /sbin/python --> /sbin/python3.13
+2025-03-22 15:53:23.681 [info] Found: /sbin/python3 --> /sbin/python3.13
+2025-03-22 15:53:23.681 [info] Found: /sbin/python3.13 --> /sbin/python3.13
+2025-03-22 15:53:23.690 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-03-22 15:53:23.691 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-03-22 15:53:23.692 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-03-22 15:53:23.785 [info] Found: /usr/sbin/python --> /usr/sbin/python3.13
+2025-03-22 15:53:23.785 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.13
+2025-03-22 15:53:23.786 [info] Found: /usr/sbin/python3.13 --> /usr/sbin/python3.13
+2025-03-22 15:53:23.807 [info] Finished searching for interpreters in posix paths locator: 193 milliseconds
+2025-03-22 15:53:23.817 [info] Environments refresh paths discovered (event): 204 milliseconds
+2025-03-22 15:53:23.817 [info] Environments refresh finished (event): 204 milliseconds
+2025-03-22 15:53:23.817 [info] Environments refresh paths discovered: 204 milliseconds
+2025-03-22 15:53:33.207 [info] Starting Environment refresh
+2025-03-22 15:53:33.223 [info] Environments refresh finished (event): 17 milliseconds
+2025-03-22 15:53:33.223 [info] Environments refresh paths discovered: 17 milliseconds
+2025-03-22 15:53:33.226 [info] Environment refresh took 20 milliseconds
+2025-03-22 15:53:33.239 [info] > pyenv which python
+2025-03-22 15:53:33.239 [info] cwd: ~/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time
+2025-03-22 15:53:35.435 [info] Starting Jedi language server for part07-11_screen_time.
+2025-03-22 16:57:55.526 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 16:58:32.946 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:00:19.454 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:01:32.894 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:03:30.577 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:05:58.171 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:06:23.612 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:06:27.428 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src
+2025-03-22 17:06:27.589 [info] CreateEnv Trigger - Skipping for /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:06:37.435 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:10:20.421 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:11:01.083 [info] Send text to terminal: cd /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src
+2025-03-22 17:11:01.331 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:11:44.810 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:12:33.691 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:13:20.780 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:14:14.336 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:14:53.244 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:17:48.635 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:18:46.148 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:21:04.252 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:21:18.706 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:21:58.664 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:24:43.859 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:25:23.317 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:26:59.501 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:27:31.558 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:37:50.231 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py
+2025-03-22 17:37:55.932 [info] Discover tests for workspace name: part07-11_screen_time - uri: /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time/src/screen_time.py

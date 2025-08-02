@@ -1,0 +1,5 @@
+def count_matching_elements(my_matrix: list, element: int):
+    count = 0
+    for i in range(len(my_matrix)):
+        for j in range(len(my_matrix[i])):
+            

@@ -1,0 +1,14 @@
+{
+    "window.density.editorTabHeight": "compact",
+    "window.menuBarVisibility": "hidden",
+    "editor.fontSize": 16,
+    "files.autoSaveWhenNoErrors": true,
+    "code-runner.runInTerminal": true,
+    "workbench.colorTheme": "Monokai",
+    "accessibility.signals.terminalBell": {
+        "sound": "on"
+    },
+    "terminal.integrated.enableVisualBell": true,
+    "workbench.editor.empty.hint": "hidden",
+    "files.autoSave": "afterDelay"
+}

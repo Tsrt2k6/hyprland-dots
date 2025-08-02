@@ -1,0 +1,48 @@
+2024-05-19 22:08:51.324 [info] Extension host with pid 65761 started
+2024-05-19 22:08:51.447 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-19 22:08:51.471 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-19 22:08:51.521 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-19 22:08:51.633 [info] Eager extensions activated
+2024-05-19 22:08:51.707 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 22:08:51.713 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 22:08:51.730 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 22:09:06.685 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onView:github.codespaces.explorer'
+2024-05-19 22:09:07.037 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'api', root cause: GitHub.codespaces
+2024-05-19 22:09:12.406 [error] Error: list codespaces request failed with status 499
+    at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:388:19)
+    at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:411:17)
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-19 22:09:14.152 [error] Error: list codespaces request failed with status 499
+    at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:388:19)
+    at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:411:17)
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-19 22:09:39.193 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-19 22:09:39.386 [info] Extension host with pid 65761 exiting with code 0
+2024-05-19 22:09:41.468 [info] Extension host with pid 66227 started
+2024-05-19 22:09:41.468 [info] Skipping acquiring lock for /home/tsrt/.config/Code/User/workspaceStorage/56f9f5378017e13c1c4a121ad498677c.
+2024-05-19 22:09:41.671 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-19 22:09:41.782 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-19 22:09:41.844 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-19 22:09:41.995 [info] Eager extensions activated
+2024-05-19 22:09:42.041 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 22:09:42.047 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 22:09:42.066 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 22:10:35.216 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2024-05-19 22:10:35.401 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-19 22:16:05.108 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-05-19 22:16:27.559 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-05-19 22:16:47.528 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-05-19 22:16:52.789 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-05-19 22:16:53.113 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-05-19 22:19:12.538 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-19 22:19:12.597 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-19 23:03:06.291 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-05-19 23:03:06.619 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-05-19 23:03:07.269 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-05-20 00:33:03.017 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-05-20 01:21:26.450 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-20 01:21:26.742 [info] Extension host with pid 66227 exiting with code 0

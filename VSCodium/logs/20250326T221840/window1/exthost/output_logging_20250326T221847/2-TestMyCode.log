@@ -1,0 +1,1705 @@
+[2025-03-26 14:18:50:288] [INFO] Starting moocfi.test-my-code in "production" mode.
+[2025-03-26 14:18:50:289] [INFO] VSCodium version: 1.97.2
+[2025-03-26 14:18:50:289] [INFO] moocfi.test-my-code version: 3.2.1
+[2025-03-26 14:18:50:289] [INFO] Currently open workspace: mooc-programming-25 (Workspace)
+[2025-03-26 14:18:50:289] [INFO] Platform linux Arch x64
+[2025-03-26 14:18:50:290] [INFO] TMC-Langs version: tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1
+[2025-03-26 14:18:50:301] [INFO] Running "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/cli/tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1" "tmc" "--client-name" "vscode_plugin" "--client-version" "3.2.1" "logged-in"
+[2025-03-26 14:18:50:301] [DEBUG] TMC backend at https://tmc.mooc.fi
+[2025-03-26 14:18:50:301] [DEBUG] MOOC backend at https://courses.mooc.fi
+[2025-03-26 14:18:50:301] [DEBUG] Config dir at undefined
+[2025-03-26 14:18:50:474] [WARN] stderr
+[2025-03-26T14:18:50Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 14:18:50:882] [INFO] Running "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/cli/tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1" "settings" "--client-name" "vscode_plugin" "get" "projects-dir"
+[2025-03-26 14:18:50:882] [DEBUG] TMC backend at https://tmc.mooc.fi
+[2025-03-26 14:18:50:882] [DEBUG] MOOC backend at https://courses.mooc.fi
+[2025-03-26 14:18:50:882] [DEBUG] Config dir at undefined
+[2025-03-26 14:18:50:907] [WARN] stderr
+[2025-03-26T14:18:50Z DEBUG tmc_langs] fetching setting projects-dir in vscode_plugin
+[2025-03-26T14:18:50Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T14:18:50Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 14:18:51:822] [WARN] stderr
+[2025-03-26T14:18:51Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T14:18:51Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T14:18:51Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 14:18:51:850] [WARN] stderr
+[2025-03-26T14:18:51Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T14:18:51Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T14:18:51Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 14:18:51:941] [WARN] stderr
+[2025-03-26T14:18:51Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T14:18:51Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T14:18:51Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-26T14:18:51Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-26T14:18:51Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-26 14:18:52:096] [WARN] stderr
+[2025-03-26T14:18:51Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T14:18:51Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T14:18:51Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 14:18:54:199] [WARN] stderr
+[2025-03-26T14:18:54Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 14:18:55:018] [WARN] stderr
+[2025-03-26T14:18:55Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 14:18:55:453] [WARN] stderr
+[2025-03-26T14:18:55Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T14:18:55Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T14:18:55Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 14:18:55:477] [WARN] stderr
+[2025-03-26T14:18:55Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T14:18:55Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T14:18:55Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 14:34:21:904] [WARN] stderr
+[2025-03-26T14:34:21Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+
+[2025-03-26 14:34:21:937] [WARN] stderr
+[2025-03-26T14:34:21Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+
+[2025-03-26 14:34:21:938] [WARN] stderr
+[2025-03-26T14:34:21Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+[2025-03-26T14:34:21Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+
+[2025-03-26 14:34:21:939] [WARN] stderr
+[2025-03-26T14:34:21Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics as python3
+
+[2025-03-26 14:34:21:939] [WARN] stderr
+[2025-03-26T14:34:21Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics as python3
+[2025-03-26T14:34:21Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-26 14:34:21:939] [WARN] stderr
+[2025-03-26T14:34:21Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+
+[2025-03-26 14:34:21:940] [WARN] stderr
+[2025-03-26T14:34:21Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:34:21Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-26T14:34:21Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-26 14:34:21:981] [WARN] stderr
+[2025-03-26T14:34:21Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-26T14:34:21Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-26T14:34:21Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+
+[2025-03-26 14:34:21:981] [WARN] stderr
+[2025-03-26T14:34:21Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-26 14:34:24:113] [WARN] stderr
+[2025-03-26T14:34:24Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-26T14:34:24Z DEBUG tmc_langs_framework::command] stdout: Running tests with some TMC magic...
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    Stdout:
+    [('Cloud Computing Fundamentals', 'CCFUN', 2019, 27), ('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2018', 'docker2018', 2018, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 54)]
+    
+[2025-03-26T14:34:24Z DEBUG tmc_langs_framework::command] stderr: .FEEFFEEEEE.
+    ======================================================================
+    ERROR: test2_function_retrieve_all_works (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test2_function_retrieve_all_works)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 74, in test2_function_retrieve_all_works
+        self.assertEqual(len(expected), len(answer), f'Calling retrieve_all() is expected to return a list whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}. The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    ERROR: test3_function_retrieve_all_also_works_with_other_data (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test3_function_retrieve_all_also_works_with_other_data)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 88, in test3_function_retrieve_all_also_works_with_other_data
+        self.assertEqual(len(expected), len(answer), f'Are you sure, that you did not hard-code the return value? When using an alternative data source, calling retrieve_all() is expected to return a list, whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}.  The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Cloud Computing Fundamentals', 'CCFUN', 2019, 27), ('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2018', 'docker2018', 2018, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 54)]
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_1 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_1)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 64, in test2_function_retrieve_course_works_1
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_2 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_2)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 80, in test2_function_retrieve_course_works_2
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_3 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_3)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 97, in test2_function_retrieve_course_works_3
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_4 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_4)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 114, in test2_function_retrieve_course_works_4
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_5 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_5)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 130, in test2_function_retrieve_course_works_5
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_all_exists (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test1_function_retrieve_all_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 59, in test1_function_retrieve_all_exists
+        self.assertTrue(type(answer) == list, f'Calling retrieve_all() is expected to return a list, now it returned value {answer}')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Calling retrieve_all() is expected to return a list, now it returned value None
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    FAIL: test_0a_main_program_ok (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test_0a_main_program_ok)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 38, in test_0a_main_program_ok
+        self.assertTrue(ok, message+line)
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : The code for testing the functions should be placed inside
+    if __name__ == "__main__":
+    block. The following row should be moved:
+    retrieve_all()
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_course_exists (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test1_function_retrieve_course_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 51, in test1_function_retrieve_course_exists
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 53, in test1_function_retrieve_course_exists
+        self.assertTrue(False, f'Your code should contain function named as retrieve_course(course_name: str)')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your code should contain function named as retrieve_course(course_name: str)
+    
+    ----------------------------------------------------------------------
+    Ran 12 tests in 1.727s
+    
+    FAILED (failures=3, errors=7)
+    
+
+[2025-03-26 14:34:24:114] [WARN] stderr
+[2025-03-26T14:34:24Z DEBUG tmc_langs_python3::plugin] stderr: .FEEFFEEEEE.
+    ======================================================================
+    ERROR: test2_function_retrieve_all_works (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test2_function_retrieve_all_works)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 74, in test2_function_retrieve_all_works
+        self.assertEqual(len(expected), len(answer), f'Calling retrieve_all() is expected to return a list whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}. The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    ERROR: test3_function_retrieve_all_also_works_with_other_data (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test3_function_retrieve_all_also_works_with_other_data)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 88, in test3_function_retrieve_all_also_works_with_other_data
+        self.assertEqual(len(expected), len(answer), f'Are you sure, that you did not hard-code the return value? When using an alternative data source, calling retrieve_all() is expected to return a list, whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}.  The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Cloud Computing Fundamentals', 'CCFUN', 2019, 27), ('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2018', 'docker2018', 2018, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 54)]
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_1 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_1)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 64, in test2_function_retrieve_course_works_1
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_2 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_2)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 80, in test2_function_retrieve_course_works_2
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_3 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_3)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 97, in test2_function_retrieve_course_works_3
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_4 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_4)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 114, in test2_function_retrieve_course_works_4
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_5 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_5)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 130, in test2_function_retrieve_course_works_5
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_all_exists (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test1_function_retrieve_all_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 59, in test1_function_retrieve_all_exists
+        self.assertTrue(type(answer) == list, f'Calling retrieve_all() is expected to return a list, now it returned value {answer}')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Calling retrieve_all() is expected to return a list, now it returned value None
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    FAIL: test_0a_main_program_ok (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test_0a_main_program_ok)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 38, in test_0a_main_program_ok
+        self.assertTrue(ok, message+line)
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : The code for testing the functions should be placed inside
+    if __name__ == "__main__":
+    block. The following row should be moved:
+    retrieve_all()
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_course_exists (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test1_function_retrieve_course_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 51, in test1_function_retrieve_course_exists
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 53, in test1_function_retrieve_course_exists
+        self.assertTrue(False, f'Your code should contain function named as retrieve_course(course_name: str)')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your code should contain function named as retrieve_course(course_name: str)
+    
+    ----------------------------------------------------------------------
+    Ran 12 tests in 1.727s
+    
+    FAILED (failures=3, errors=7)
+    
+[2025-03-26T14:34:24Z DEBUG tmc_langs_python3::plugin] stderr: .FEEFFEEEEE.
+    ======================================================================
+    ERROR: test2_function_retrieve_all_works (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test2_function_retrieve_all_works)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 74, in test2_function_retrieve_all_works
+        self.assertEqual(len(expected), len(answer), f'Calling retrieve_all() is expected to return a list whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}. The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    ERROR: test3_function_retrieve_all_also_works_with_other_data (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test3_function_retrieve_all_also_works_with_other_data)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 88, in test3_function_retrieve_all_also_works_with_other_data
+        self.assertEqual(len(expected), len(answer), f'Are you sure, that you did not hard-code the return value? When using an alternative data source, calling retrieve_all() is expected to return a list, whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}.  The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Cloud Computing Fundamentals', 'CCFUN', 2019, 27), ('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2018', 'docker2018', 2018, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 54)]
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_1 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_1)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 64, in test2_function_retrieve_course_works_1
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_2 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_2)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 80, in test2_function_retrieve_course_works_2
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_3 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_3)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 97, in test2_function_retrieve_course_works_3
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_4 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_4)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 114, in test2_function_retrieve_course_works_4
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_5 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_5)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 130, in test2_function_retrieve_course_works_5
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_all_exists (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test1_function_retrieve_all_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 59, in test1_function_retrieve_all_exists
+        self.assertTrue(type(answer) == list, f'Calling retrieve_all() is expected to return a list, now it returned value {answer}')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Calling retrieve_all() is expected to return a list, now it returned value None
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    FAIL: test_0a_main_program_ok (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test_0a_main_program_ok)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 38, in test_0a_main_program_ok
+        self.assertTrue(ok, message+line)
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : The code for testing the functions should be placed inside
+    if __name__ == "__main__":
+    block. The following row should be moved:
+    retrieve_all()
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_course_exists (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test1_function_retrieve_course_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 51, in test1_function_retrieve_course_exists
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 53, in test1_function_retrieve_course_exists
+        self.assertTrue(False, f'Your code should contain function named as retrieve_course(course_name: str)')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your code should contain function named as retrieve_course(course_name: str)
+    
+    ----------------------------------------------------------------------
+    Ran 12 tests in 1.727s
+    
+    FAILED (failures=3, errors=7)
+    
+
+[2025-03-26 14:34:28:916] [WARN] stderr
+[2025-03-26T14:34:28Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+[2025-03-26T14:34:28Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:34:28Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics as python3
+[2025-03-26T14:34:28Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:34:28Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:34:28Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-26T14:34:28Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-26 14:34:28:923] [WARN] stderr
+[2025-03-26T14:34:28Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+[2025-03-26T14:34:28Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+
+[2025-03-26 14:34:28:923] [WARN] stderr
+[2025-03-26T14:34:28Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics as python3
+[2025-03-26T14:34:28Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-26 14:34:28:956] [WARN] stderr
+[2025-03-26T14:34:28Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-26T14:34:28Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-26T14:34:28Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+
+[2025-03-26 14:34:28:957] [WARN] stderr
+[2025-03-26T14:34:28Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-26 14:34:29:386] [WARN] stderr
+[2025-03-26T14:34:29Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-26T14:34:29Z DEBUG tmc_langs_framework::command] stdout: Running tests with some TMC magic...
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    Stdout:
+    [('Cloud Computing Fundamentals', 'CCFUN', 2019, 27), ('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2018', 'docker2018', 2018, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 54)]
+    
+
+[2025-03-26 14:34:29:386] [WARN] stderr
+[2025-03-26T14:34:29Z DEBUG tmc_langs_framework::command] stderr: .FEE.FEEEEE.
+    ======================================================================
+    ERROR: test2_function_retrieve_all_works (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test2_function_retrieve_all_works)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 74, in test2_function_retrieve_all_works
+        self.assertEqual(len(expected), len(answer), f'Calling retrieve_all() is expected to return a list whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}. The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    ERROR: test3_function_retrieve_all_also_works_with_other_data (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test3_function_retrieve_all_also_works_with_other_data)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 88, in test3_function_retrieve_all_also_works_with_other_data
+        self.assertEqual(len(expected), len(answer), f'Are you sure, that you did not hard-code the return value? When using an alternative data source, calling retrieve_all() is expected to return a list, whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}.  The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Cloud Computing Fundamentals', 'CCFUN', 2019, 27), ('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2018', 'docker2018', 2018, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 54)]
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_1 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_1)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 64, in test2_function_retrieve_course_works_1
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_2 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_2)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 80, in test2_function_retrieve_course_works_2
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_3 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_3)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 97, in test2_function_retrieve_course_works_3
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_4 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_4)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 114, in test2_function_retrieve_course_works_4
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_5 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_5)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 130, in test2_function_retrieve_course_works_5
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_all_exists (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test1_function_retrieve_all_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 59, in test1_function_retrieve_all_exists
+        self.assertTrue(type(answer) == list, f'Calling retrieve_all() is expected to return a list, now it returned value {answer}')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Calling retrieve_all() is expected to return a list, now it returned value None
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_course_exists (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test1_function_retrieve_course_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 51, in test1_function_retrieve_course_exists
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 53, in test1_function_retrieve_course_exists
+        self.assertTrue(False, f'Your code should contain function named as retrieve_course(course_name: str)')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your code should contain function named as retrieve_course(course_name: str)
+    
+    ----------------------------------------------------------------------
+    Ran 12 tests in 0.080s
+    
+    FAILED (failures=2, errors=7)
+    
+[2025-03-26T14:34:29Z DEBUG tmc_langs_python3::plugin] stderr: .FEE.FEEEEE.
+    ======================================================================
+    ERROR: test2_function_retrieve_all_works (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test2_function_retrieve_all_works)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 74, in test2_function_retrieve_all_works
+        self.assertEqual(len(expected), len(answer), f'Calling retrieve_all() is expected to return a list whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}. The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    ERROR: test3_function_retrieve_all_also_works_with_other_data (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test3_function_retrieve_all_also_works_with_other_data)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 88, in test3_function_retrieve_all_also_works_with_other_data
+        self.assertEqual(len(expected), len(answer), f'Are you sure, that you did not hard-code the return value? When using an alternative data source, calling retrieve_all() is expected to return a list, whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}.  The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Cloud Computing Fundamentals', 'CCFUN', 2019, 27), ('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2018', 'docker2018', 2018, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 54)]
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_1 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_1)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 64, in test2_function_retrieve_course_works_1
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_2 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_2)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 80, in test2_function_retrieve_course_works_2
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_3 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_3)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 97, in test2_function_retrieve_course_works_3
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_4 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_4)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 114, in test2_function_retrieve_course_works_4
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_5 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_5)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 130, in test2_function_retrieve_course_works_5
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_all_exists (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test1_function_retrieve_all_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 59, in test1_function_retrieve_all_exists
+        self.assertTrue(type(answer) == list, f'Calling retrieve_all() is expected to return a list, now it returned value {answer}')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Calling retrieve_all() is expected to return a list, now it returned value None
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_course_exists (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test1_function_retrieve_course_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 51, in test1_function_retrieve_course_exists
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 53, in test1_function_retrieve_course_exists
+        self.assertTrue(False, f'Your code should contain function named as retrieve_course(course_name: str)')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your code should contain function named as retrieve_course(course_name: str)
+    
+    ----------------------------------------------------------------------
+    Ran 12 tests in 0.080s
+    
+    FAILED (failures=2, errors=7)
+    
+[2025-03-26T14:34:29Z DEBUG tmc_langs_python3::plugin] stderr: .FEE.FEEEEE.
+    ======================================================================
+    ERROR: test2_function_retrieve_all_works (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test2_function_retrieve_all_works)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 74, in test2_function_retrieve_all_works
+        self.assertEqual(len(expected), len(answer), f'Calling retrieve_all() is expected to return a list whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}. The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    ERROR: test3_function_retrieve_all_also_works_with_other_data (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test3_function_retrieve_all_also_works_with_other_data)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 88, in test3_function_retrieve_all_also_works_with_other_data
+        self.assertEqual(len(expected), len(answer), f'Are you sure, that you did not hard-code the return value? When using an alternative data source, calling retrieve_all() is expected to return a list, whichs length is {len(expected)}. Now it returned a list whichs length is {len(answer)}.  The returned list is\n{answer}')
+                                        ~~~^^^^^^^^
+    TypeError: object of type 'NoneType' has no len()
+    
+    Stdout:
+    [('Cloud Computing Fundamentals', 'CCFUN', 2019, 27), ('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2018', 'docker2018', 2018, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 54)]
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_1 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_1)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 64, in test2_function_retrieve_course_works_1
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_2 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_2)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 80, in test2_function_retrieve_course_works_2
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_3 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_3)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 97, in test2_function_retrieve_course_works_3
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_4 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_4)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 114, in test2_function_retrieve_course_works_4
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_5 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_5)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 130, in test2_function_retrieve_course_works_5
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_all_exists (test.test_course_statistics_part_1.CourseStatisticsPart1Test.test1_function_retrieve_all_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_1.py", line 59, in test1_function_retrieve_all_exists
+        self.assertTrue(type(answer) == list, f'Calling retrieve_all() is expected to return a list, now it returned value {answer}')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Calling retrieve_all() is expected to return a list, now it returned value None
+    
+    Stdout:
+    [('Full Stack Open 2020', 'ofs2019', 2020, 201), ('DevOps with Docker 2019', 'docker2019', 2019, 36), ('DevOps with Docker 2020', 'docker2020', 2020, 36), ('Beta DevOps with Kubernetes', 'beta-dwk-20', 2020, 28)]
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_course_exists (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test1_function_retrieve_course_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 51, in test1_function_retrieve_course_exists
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 53, in test1_function_retrieve_course_exists
+        self.assertTrue(False, f'Your code should contain function named as retrieve_course(course_name: str)')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your code should contain function named as retrieve_course(course_name: str)
+    
+    ----------------------------------------------------------------------
+    Ran 12 tests in 0.080s
+    
+    FAILED (failures=2, errors=7)
+    
+
+[2025-03-26 14:34:42:861] [WARN] stderr
+[2025-03-26T14:34:42Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+[2025-03-26T14:34:42Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:34:42Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics as python3
+[2025-03-26T14:34:42Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:34:42Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:34:42Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-26T14:34:42Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-26 14:34:42:868] [WARN] stderr
+[2025-03-26T14:34:42Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+[2025-03-26T14:34:42Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+
+[2025-03-26 14:34:42:869] [WARN] stderr
+[2025-03-26T14:34:42Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics as python3
+[2025-03-26T14:34:42Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-26 14:34:42:907] [WARN] stderr
+[2025-03-26T14:34:42Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-26T14:34:42Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-26T14:34:42Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+
+[2025-03-26 14:34:42:907] [WARN] stderr
+[2025-03-26T14:34:42Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-26 14:34:43:337] [WARN] stderr
+[2025-03-26T14:34:43Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-26T14:34:43Z DEBUG tmc_langs_framework::command] stdout: Running tests with some TMC magic...
+    
+[2025-03-26T14:34:43Z DEBUG tmc_langs_framework::command] stderr: .....FEEEEE.
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_1 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_1)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 64, in test2_function_retrieve_course_works_1
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_2 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_2)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 80, in test2_function_retrieve_course_works_2
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_3 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_3)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 97, in test2_function_retrieve_course_works_3
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_4 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_4)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 114, in test2_function_retrieve_course_works_4
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_5 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_5)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 130, in test2_function_retrieve_course_works_5
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_course_exists (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test1_function_retrieve_course_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 51, in test1_function_retrieve_course_exists
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 53, in test1_function_retrieve_course_exists
+        self.assertTrue(False, f'Your code should contain function named as retrieve_course(course_name: str)')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your code should contain function named as retrieve_course(course_name: str)
+    
+    ----------------------------------------------------------------------
+    Ran 12 tests in 0.078s
+    
+    FAILED (failures=1, errors=5)
+    
+
+[2025-03-26 14:34:43:338] [WARN] stderr
+[2025-03-26T14:34:43Z DEBUG tmc_langs_python3::plugin] stderr: .....FEEEEE.
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_1 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_1)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 64, in test2_function_retrieve_course_works_1
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_2 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_2)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 80, in test2_function_retrieve_course_works_2
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_3 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_3)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 97, in test2_function_retrieve_course_works_3
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_4 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_4)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 114, in test2_function_retrieve_course_works_4
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_5 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_5)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 130, in test2_function_retrieve_course_works_5
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_course_exists (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test1_function_retrieve_course_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 51, in test1_function_retrieve_course_exists
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 53, in test1_function_retrieve_course_exists
+        self.assertTrue(False, f'Your code should contain function named as retrieve_course(course_name: str)')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your code should contain function named as retrieve_course(course_name: str)
+    
+    ----------------------------------------------------------------------
+    Ran 12 tests in 0.078s
+    
+    FAILED (failures=1, errors=5)
+    
+[2025-03-26T14:34:43Z DEBUG tmc_langs_python3::plugin] stderr: .....FEEEEE.
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_1 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_1)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 64, in test2_function_retrieve_course_works_1
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_2 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_2)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 80, in test2_function_retrieve_course_works_2
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_3 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_3)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 97, in test2_function_retrieve_course_works_3
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_4 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_4)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 114, in test2_function_retrieve_course_works_4
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    ERROR: test2_function_retrieve_course_works_5 (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test2_function_retrieve_course_works_5)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 130, in test2_function_retrieve_course_works_5
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    ======================================================================
+    FAIL: test1_function_retrieve_course_exists (test.test_course_statistics_part_2.CourseStatisticsPart2Test.test1_function_retrieve_course_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 51, in test1_function_retrieve_course_exists
+        from src.course_statistics import retrieve_course
+    ImportError: cannot import name 'retrieve_course' from 'src.course_statistics' (/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/src/course_statistics.py)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/test/test_course_statistics_part_2.py", line 53, in test1_function_retrieve_course_exists
+        self.assertTrue(False, f'Your code should contain function named as retrieve_course(course_name: str)')
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your code should contain function named as retrieve_course(course_name: str)
+    
+    ----------------------------------------------------------------------
+    Ran 12 tests in 0.078s
+    
+    FAILED (failures=1, errors=5)
+    
+
+[2025-03-26 14:48:51:952] [WARN] stderr
+[2025-03-26T14:48:51Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 14:48:51:983] [WARN] stderr
+[2025-03-26T14:48:51Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T14:48:51Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T14:48:51Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-26T14:48:51Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-26T14:48:51Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-26 14:48:51:988] [WARN] stderr
+[2025-03-26T14:48:51Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 14:48:51:988] [WARN] stderr
+[2025-03-26T14:48:51Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T14:48:51Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 14:48:53:687] [WARN] stderr
+[2025-03-26T14:48:53Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 14:48:54:258] [WARN] stderr
+[2025-03-26T14:48:54Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 14:48:54:596] [WARN] stderr
+[2025-03-26T14:48:54Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T14:48:54Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T14:48:54Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 14:48:54:618] [WARN] stderr
+[2025-03-26T14:48:54Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T14:48:54Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T14:48:54Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 14:49:06:283] [WARN] stderr
+[2025-03-26T14:49:06Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+[2025-03-26T14:49:06Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:49:06Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics as python3
+[2025-03-26T14:49:06Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:49:06Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+[2025-03-26T14:49:06Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-26T14:49:06Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-26 14:49:06:287] [WARN] stderr
+[2025-03-26T14:49:06Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+[2025-03-26T14:49:06Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+
+[2025-03-26 14:49:06:288] [WARN] stderr
+[2025-03-26T14:49:06Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics as python3
+[2025-03-26T14:49:06Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-26 14:49:06:321] [WARN] stderr
+[2025-03-26T14:49:06Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-26T14:49:06Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-26T14:49:06Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics
+
+[2025-03-26 14:49:06:321] [WARN] stderr
+[2025-03-26T14:49:06Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-26 14:49:06:858] [WARN] stderr
+[2025-03-26T14:49:06Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-26T14:49:06Z DEBUG tmc_langs_framework::command] stderr: ............
+    ----------------------------------------------------------------------
+    Ran 12 tests in 0.065s
+    
+    OK
+    
+[2025-03-26T14:49:06Z DEBUG tmc_langs_python3::plugin] stderr: ............
+    ----------------------------------------------------------------------
+    Ran 12 tests in 0.065s
+    
+    OK
+    
+[2025-03-26T14:49:06Z DEBUG tmc_langs_python3::plugin] stderr: ............
+    ----------------------------------------------------------------------
+    Ran 12 tests in 0.065s
+    
+    OK
+    
+
+[2025-03-26 14:49:11:140] [WARN] stderr
+[2025-03-26T14:49:11Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 14:49:11:140] [WARN] stderr
+[2025-03-26T14:49:11Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+
+[2025-03-26 14:49:11:143] [WARN] stderr
+[2025-03-26T14:49:11Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics as python3
+[2025-03-26T14:49:11Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics/.tmcproject.yml
+
+[2025-03-26 14:49:11:186] [WARN] stderr
+[2025-03-26T14:49:11Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273033/submissions
+
+[2025-03-26 14:49:12:119] [WARN] stderr
+[2025-03-26T14:49:12Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26172510
+
+[2025-03-26 14:49:13:419] [WARN] stderr
+[2025-03-26T14:49:13Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26172510
+
+[2025-03-26 14:49:13:777] [WARN] stderr
+[2025-03-26T14:49:13Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 14:49:13:778] [WARN] stderr
+[2025-03-26T14:49:13Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T14:49:13Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 14:49:15:148] [WARN] stderr
+[2025-03-26T14:49:15Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 14:49:15:888] [WARN] stderr
+[2025-03-26T14:49:15Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 14:49:16:194] [WARN] stderr
+[2025-03-26T14:49:16Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T14:49:16Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T14:49:16Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 14:49:16:221] [WARN] stderr
+[2025-03-26T14:49:16Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T14:49:16Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T14:49:16Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 16:32:46:962] [WARN] stderr
+[2025-03-26T16:32:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 16:32:46:991] [WARN] stderr
+[2025-03-26T16:32:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T16:32:46Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T16:32:46Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-26T16:32:46Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-26T16:32:46Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-26 16:32:46:996] [WARN] stderr
+[2025-03-26T16:32:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 16:32:46:996] [WARN] stderr
+[2025-03-26T16:32:46Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T16:32:46Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 16:32:48:491] [WARN] stderr
+[2025-03-26T16:32:48Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 16:32:48:897] [WARN] stderr
+[2025-03-26T16:32:48Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 16:32:49:161] [WARN] stderr
+[2025-03-26T16:32:49Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T16:32:49Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T16:32:49Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 16:32:49:173] [WARN] stderr
+[2025-03-26T16:32:49Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T16:32:49Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T16:32:49Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 17:02:46:958] [WARN] stderr
+[2025-03-26T17:02:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:02:46:981] [WARN] stderr
+[2025-03-26T17:02:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T17:02:46Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T17:02:46Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-26T17:02:46Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-26T17:02:46Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-26 17:02:46:987] [WARN] stderr
+[2025-03-26T17:02:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:02:46:987] [WARN] stderr
+[2025-03-26T17:02:46Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T17:02:46Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 17:02:49:018] [WARN] stderr
+[2025-03-26T17:02:49Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 17:02:49:837] [WARN] stderr
+[2025-03-26T17:02:49Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 17:02:50:197] [WARN] stderr
+[2025-03-26T17:02:50Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T17:02:50Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T17:02:50Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 17:02:50:213] [WARN] stderr
+[2025-03-26T17:02:50Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T17:02:50Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T17:02:50Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 17:14:44:301] [WARN] stderr
+[2025-03-26T17:14:44Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated
+[2025-03-26T17:14:44Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated/.tmcproject.yml
+
+[2025-03-26 17:14:44:305] [WARN] stderr
+[2025-03-26T17:14:44Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated as python3
+[2025-03-26T17:14:44Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated/.tmcproject.yml
+[2025-03-26T17:14:44Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated/.tmcproject.yml
+[2025-03-26T17:14:44Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-26T17:14:44Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-26 17:14:44:312] [WARN] stderr
+[2025-03-26T17:14:44Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated
+
+[2025-03-26 17:14:44:312] [WARN] stderr
+[2025-03-26T17:14:44Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated/.tmcproject.yml
+
+[2025-03-26 17:14:44:313] [WARN] stderr
+[2025-03-26T17:14:44Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated as python3
+
+[2025-03-26 17:14:44:314] [WARN] stderr
+[2025-03-26T17:14:44Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-26 17:14:44:368] [WARN] stderr
+[2025-03-26T17:14:44Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-26T17:14:44Z DEBUG tmc_langs_framework::command] stderr: 
+
+[2025-03-26 17:14:44:368] [WARN] stderr
+[2025-03-26T17:14:44Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated
+[2025-03-26T17:14:44Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-26 17:14:44:744] [WARN] stderr
+[2025-03-26T17:14:44Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-26T17:14:44Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.013s
+    
+    OK
+    
+[2025-03-26T17:14:44Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.013s
+    
+    OK
+    
+[2025-03-26T17:14:44Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.013s
+    
+    OK
+    
+
+[2025-03-26 17:14:46:655] [WARN] stderr
+[2025-03-26T17:14:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:14:46:655] [WARN] stderr
+[2025-03-26T17:14:46Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated/.tmcproject.yml
+
+[2025-03-26 17:14:46:658] [WARN] stderr
+[2025-03-26T17:14:46Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated as python3
+[2025-03-26T17:14:46Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated/.tmcproject.yml
+
+[2025-03-26 17:14:46:664] [WARN] stderr
+[2025-03-26T17:14:46Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273036/submissions
+
+[2025-03-26 17:14:47:385] [WARN] stderr
+[2025-03-26T17:14:47Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26174658
+
+[2025-03-26 17:14:48:655] [WARN] stderr
+[2025-03-26T17:14:48Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26174658
+
+[2025-03-26 17:14:48:908] [WARN] stderr
+[2025-03-26T17:14:48Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T17:14:48Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T17:14:48Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 17:14:50:649] [WARN] stderr
+[2025-03-26T17:14:50Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 17:14:51:052] [WARN] stderr
+[2025-03-26T17:14:51Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 17:14:51:361] [WARN] stderr
+[2025-03-26T17:14:51Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T17:14:51Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T17:14:51Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 17:14:51:384] [WARN] stderr
+[2025-03-26T17:14:51Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T17:14:51Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T17:14:51Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 17:14:51:407] [WARN] stderr
+[2025-03-26T17:14:51Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:14:51:408] [WARN] stderr
+[2025-03-26T17:14:51Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 17:14:51:408] [WARN] stderr
+[2025-03-26T17:14:51Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+
+[2025-03-26 17:14:51:411] [WARN] stderr
+[2025-03-26T17:14:51Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 17:14:51:411] [WARN] stderr
+[2025-03-26T17:14:51Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-26 17:32:46:960] [WARN] stderr
+[2025-03-26T17:32:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:32:46:981] [WARN] stderr
+[2025-03-26T17:32:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T17:32:46Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T17:32:46Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-26T17:32:46Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-26T17:32:46Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-26 17:32:46:987] [WARN] stderr
+[2025-03-26T17:32:46Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:32:46:987] [WARN] stderr
+[2025-03-26T17:32:46Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T17:32:46Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 17:32:48:499] [WARN] stderr
+[2025-03-26T17:32:48Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 17:32:49:006] [WARN] stderr
+[2025-03-26T17:32:49Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 17:32:49:286] [WARN] stderr
+[2025-03-26T17:32:49Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T17:32:49Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T17:32:49Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 17:32:49:302] [WARN] stderr
+[2025-03-26T17:32:49Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T17:32:49Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T17:32:49Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 17:44:33:189] [WARN] stderr
+[2025-03-26T17:44:33Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+[2025-03-26T17:44:33Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+
+[2025-03-26 17:44:33:194] [WARN] stderr
+[2025-03-26T17:44:33Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+[2025-03-26T17:44:33Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+
+[2025-03-26 17:44:33:226] [WARN] stderr
+[2025-03-26T17:44:33Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2 as python3
+[2025-03-26T17:44:33Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:44:33Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:44:33Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+
+[2025-03-26 17:44:33:227] [WARN] stderr
+[2025-03-26T17:44:33Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2 as python3
+[2025-03-26T17:44:33Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-26 17:44:33:227] [WARN] stderr
+[2025-03-26T17:44:33Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-26 17:44:33:272] [WARN] stderr
+[2025-03-26T17:44:33Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-26T17:44:33Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-26T17:44:33Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+
+[2025-03-26 17:44:33:272] [WARN] stderr
+[2025-03-26T17:44:33Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-26 17:44:33:671] [WARN] stderr
+[2025-03-26T17:44:33Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-26T17:44:33Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.022s
+    
+    OK
+    
+[2025-03-26T17:44:33Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.022s
+    
+    OK
+    
+[2025-03-26T17:44:33Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.022s
+    
+    OK
+    
+
+[2025-03-26 17:44:37:414] [WARN] stderr
+[2025-03-26T17:44:37Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:44:37:414] [WARN] stderr
+[2025-03-26T17:44:37Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:44:37Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2 as python3
+[2025-03-26T17:44:37Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+
+[2025-03-26 17:44:37:423] [WARN] stderr
+[2025-03-26T17:44:37Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273034/submissions
+
+[2025-03-26 17:44:38:239] [WARN] stderr
+[2025-03-26T17:44:38Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26175026
+
+[2025-03-26 17:44:39:538] [WARN] stderr
+[2025-03-26T17:44:39Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26175026
+
+[2025-03-26 17:44:39:797] [WARN] stderr
+[2025-03-26T17:44:39Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T17:44:39Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T17:44:39Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 17:44:41:307] [WARN] stderr
+[2025-03-26T17:44:41Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 17:44:41:918] [WARN] stderr
+[2025-03-26T17:44:41Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 17:44:42:194] [WARN] stderr
+[2025-03-26T17:44:42Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T17:44:42Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T17:44:42Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 17:44:42:211] [WARN] stderr
+[2025-03-26T17:44:42Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T17:44:42Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T17:44:42Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 17:44:42:231] [WARN] stderr
+[2025-03-26T17:44:42Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T17:44:42Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 17:44:42:231] [WARN] stderr
+[2025-03-26T17:44:42Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+
+[2025-03-26 17:44:42:233] [WARN] stderr
+[2025-03-26T17:44:42Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 17:44:42:233] [WARN] stderr
+[2025-03-26T17:44:42Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-26 17:51:41:908] [WARN] stderr
+[2025-03-26T17:51:41Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+[2025-03-26T17:51:41Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:51:41Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2 as python3
+[2025-03-26T17:51:41Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:51:41Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:51:41Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-26T17:51:41Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-26 17:51:41:914] [WARN] stderr
+[2025-03-26T17:51:41Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+[2025-03-26T17:51:41Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+
+[2025-03-26 17:51:41:915] [WARN] stderr
+[2025-03-26T17:51:41Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2 as python3
+[2025-03-26T17:51:41Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-26 17:51:41:950] [WARN] stderr
+[2025-03-26T17:51:41Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-26T17:51:41Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-26T17:51:41Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+
+[2025-03-26 17:51:41:951] [WARN] stderr
+[2025-03-26T17:51:41Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-26 17:51:42:426] [WARN] stderr
+[2025-03-26T17:51:42Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-26T17:51:42Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.120s
+    
+    OK
+    
+[2025-03-26T17:51:42Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.120s
+    
+    OK
+    
+[2025-03-26T17:51:42Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.120s
+    
+    OK
+    
+
+[2025-03-26 17:51:52:549] [WARN] stderr
+[2025-03-26T17:51:52Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+[2025-03-26T17:51:52Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:51:52Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2 as python3
+[2025-03-26T17:51:52Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:51:52Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:51:52Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-26T17:51:52Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-26 17:51:52:554] [WARN] stderr
+[2025-03-26T17:51:52Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+[2025-03-26T17:51:52Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+
+[2025-03-26 17:51:52:555] [WARN] stderr
+[2025-03-26T17:51:52Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2 as python3
+[2025-03-26T17:51:52Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-26 17:51:52:585] [WARN] stderr
+[2025-03-26T17:51:52Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-26T17:51:52Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-26T17:51:52Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2
+
+[2025-03-26 17:51:52:585] [WARN] stderr
+[2025-03-26T17:51:52Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-26 17:51:53:004] [WARN] stderr
+[2025-03-26T17:51:53Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-26T17:51:53Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.090s
+    
+    OK
+    
+[2025-03-26T17:51:53Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.090s
+    
+    OK
+    
+[2025-03-26T17:51:53Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.090s
+    
+    OK
+    
+
+[2025-03-26 17:51:54:258] [WARN] stderr
+[2025-03-26T17:51:54Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:51:54:259] [WARN] stderr
+[2025-03-26T17:51:54Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+[2025-03-26T17:51:54Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2 as python3
+
+[2025-03-26 17:51:54:262] [WARN] stderr
+[2025-03-26T17:51:54Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2/.tmcproject.yml
+
+[2025-03-26 17:51:54:268] [WARN] stderr
+[2025-03-26T17:51:54Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273034/submissions
+
+[2025-03-26 17:51:55:178] [WARN] stderr
+[2025-03-26T17:51:55Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26175104
+
+[2025-03-26 17:51:56:480] [WARN] stderr
+[2025-03-26T17:51:56Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26175104
+
+[2025-03-26 17:51:56:734] [WARN] stderr
+[2025-03-26T17:51:56Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:51:56:735] [WARN] stderr
+[2025-03-26T17:51:56Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T17:51:56Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 17:51:58:179] [WARN] stderr
+[2025-03-26T17:51:58Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 17:51:58:677] [WARN] stderr
+[2025-03-26T17:51:58Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 17:51:59:050] [WARN] stderr
+[2025-03-26T17:51:59Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T17:51:59Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T17:51:59Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 17:51:59:071] [WARN] stderr
+[2025-03-26T17:51:59Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T17:51:59Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T17:51:59Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 17:51:59:093] [WARN] stderr
+[2025-03-26T17:51:59Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 17:51:59:093] [WARN] stderr
+[2025-03-26T17:51:59Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T17:51:59Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+
+[2025-03-26 17:51:59:095] [WARN] stderr
+[2025-03-26T17:51:59Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 17:51:59:095] [WARN] stderr
+[2025-03-26T17:51:59Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-26 19:42:06:517] [WARN] stderr
+[2025-03-26T19:42:06Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 19:42:06:544] [WARN] stderr
+[2025-03-26T19:42:06Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-26T19:42:06Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T19:42:06Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-26T19:42:06Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-26T19:42:06Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-26 19:42:06:546] [WARN] Failed to check for exercise updates.
+Runtime Error: Failed to check exercise updates. Caused by: Failed to check exercise updates
+Caused by: Connection error trying to GET https://tmc.mooc.fi/api/v8/core/exercises/details
+Caused by: error sending request for url (https://tmc.mooc.fi/api/v8/core/exercises/details?client=vscode_plugin&client_version=3.2.1&ids=272896%2C272891%2C272928%2C272922%2C272898%2C272907%2C272921%2C272903%2C272918%2C272927%2C272909%2C272919%2C272926%2C272900%2C272908%2C272897%2C272893%2C272904%2C272902%2C272920%2C272925%2C272901%2C272924%2C272917%2C272915%2C272913%2C272914%2C272906%2C272892%2C272905%2C272899%2C272894%2C272911%2C272923%2C272910%2C272912%2C272916%2C272895%2C272859%2C272864%2C272877%2C272860%2C272868%2C272867%2C272865%2C272852%2C272862%2C272878%2C272873%2C272856%2C272876%2C272874%2C272861%2C272869%2C272854%2C272857%2C272855%2C272858%2C272872%2C272863%2C272871%2C272853%2C272866%2C272875%2C272870%2C272995%2C272981%2C272977%2C272980%2C272992%2C272986%2C272994%2C272987%2C272990%2C272985%2C272984%2C272993%2C272978%2C272979%2C272983%2C272989%2C272982%2C272991%2C272988%2C273042%2C273032%2C273029%2C273039%2C273028%2C273044%2C273035%2C273038%2C273040%2C273037%2C273027%2C273041%2C273033%2C273036%2C273034%2C273043%2C273030%2C273031): error trying to connect: dns error: failed to lookup address information: Temporary failure in name resolution
+Caused by: error trying to connect: dns error: failed to lookup address information: Temporary failure in name resolution
+Caused by: dns error: failed to lookup address information: Temporary failure in name resolution
+Caused by: failed to lookup address information: Temporary failure in name resolution.
+[2025-03-26 19:42:06:549] [WARN] stderr
+[2025-03-26T19:42:06Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 19:42:06:549] [WARN] stderr
+[2025-03-26T19:42:06Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T19:42:06Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 19:57:15:111] [WARN] stderr
+[2025-03-26T19:57:15Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2
+[2025-03-26T19:57:15Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2/.tmcproject.yml
+
+[2025-03-26 19:57:15:117] [WARN] stderr
+[2025-03-26T19:57:15Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2
+[2025-03-26T19:57:15Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2/.tmcproject.yml
+
+[2025-03-26 19:57:15:117] [WARN] stderr
+[2025-03-26T19:57:15Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2 as python3
+[2025-03-26T19:57:15Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-26 19:57:15:117] [WARN] stderr
+[2025-03-26T19:57:15Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2 as python3
+[2025-03-26T19:57:15Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2/.tmcproject.yml
+[2025-03-26T19:57:15Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2/.tmcproject.yml
+[2025-03-26T19:57:15Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-26T19:57:15Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-26 19:57:15:159] [WARN] stderr
+[2025-03-26T19:57:15Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-26T19:57:15Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-26T19:57:15Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2
+
+[2025-03-26 19:57:15:160] [WARN] stderr
+[2025-03-26T19:57:15Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-26 19:57:23:298] [WARN] stderr
+[2025-03-26T19:57:23Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-26T19:57:23Z DEBUG tmc_langs_framework::command] stderr: ..
+    ----------------------------------------------------------------------
+    Ran 2 tests in 7.737s
+    
+    OK
+    
+[2025-03-26T19:57:23Z DEBUG tmc_langs_python3::plugin] stderr: ..
+    ----------------------------------------------------------------------
+    Ran 2 tests in 7.737s
+    
+    OK
+    
+[2025-03-26T19:57:23Z DEBUG tmc_langs_python3::plugin] stderr: ..
+    ----------------------------------------------------------------------
+    Ran 2 tests in 7.737s
+    
+    OK
+    
+
+[2025-03-26 19:57:30:914] [WARN] stderr
+[2025-03-26T19:57:30Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 19:57:30:915] [WARN] stderr
+[2025-03-26T19:57:30Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2/.tmcproject.yml
+
+[2025-03-26 19:57:30:917] [WARN] stderr
+[2025-03-26T19:57:30Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2 as python3
+[2025-03-26T19:57:30Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2/.tmcproject.yml
+
+[2025-03-26 19:57:31:188] [WARN] stderr
+[2025-03-26T19:57:31Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273043/submissions
+
+[2025-03-26 19:57:33:216] [WARN] stderr
+[2025-03-26T19:57:33Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26176752
+
+[2025-03-26 19:57:34:488] [WARN] stderr
+[2025-03-26T19:57:34Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26176752
+
+[2025-03-26 19:57:35:726] [WARN] stderr
+[2025-03-26T19:57:35Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26176752
+
+[2025-03-26 19:57:36:946] [WARN] stderr
+[2025-03-26T19:57:36Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26176752
+
+[2025-03-26 19:57:38:175] [WARN] stderr
+[2025-03-26T19:57:38Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26176752
+
+[2025-03-26 19:57:38:442] [WARN] stderr
+[2025-03-26T19:57:38Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 19:57:38:442] [WARN] stderr
+[2025-03-26T19:57:38Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-26T19:57:38Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-26 19:57:39:942] [WARN] stderr
+[2025-03-26T19:57:39Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-26 19:57:40:457] [WARN] stderr
+[2025-03-26T19:57:40Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-26 19:57:40:895] [WARN] stderr
+[2025-03-26T19:57:40Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-26T19:57:40Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-26T19:57:40Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 19:57:40:919] [WARN] stderr
+[2025-03-26T19:57:40Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-26T19:57:40Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-26T19:57:40Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 19:57:40:943] [WARN] stderr
+[2025-03-26T19:57:40Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-26 19:57:40:944] [WARN] stderr
+[2025-03-26T19:57:40Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-26 19:57:40:944] [WARN] stderr
+[2025-03-26T19:57:40Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+
+[2025-03-26 19:57:40:945] [WARN] stderr
+[2025-03-26T19:57:40Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-26 19:57:40:946] [WARN] stderr
+[2025-03-26T19:57:40Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+

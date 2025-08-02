@@ -1,0 +1,9 @@
+import json
+
+def print_persons(file_name):
+    with open(file_name) as file:
+        people = json.load(file)
+    for person in people:
+        print(f"{person["name"]} {person["age"]} years ({', '.join(person["hobbies"])})")
+
+print_persons("file1.json")

@@ -1,0 +1,106 @@
+2024-05-18 23:23:26.807 [info] Extension host with pid 9945 started
+2024-05-18 23:23:26.965 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-18 23:23:27.060 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-18 23:23:27.112 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-18 23:23:27.260 [info] Eager extensions activated
+2024-05-18 23:23:27.362 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:23:27.366 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:23:27.378 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:25:07.436 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-18 23:25:07.486 [info] Extension host with pid 9945 exiting with code 0
+2024-05-18 23:25:11.049 [info] Extension host with pid 10934 started
+2024-05-18 23:25:11.049 [info] Skipping acquiring lock for /home/tsrt/.config/Code/User/workspaceStorage/a8267b2e10222bc1655b3b6583a47f18.
+2024-05-18 23:25:11.161 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-18 23:25:11.216 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-18 23:25:11.268 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-18 23:25:11.411 [info] Eager extensions activated
+2024-05-18 23:25:11.459 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:25:11.464 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:25:11.482 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:25:24.970 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2024-05-18 23:25:25.188 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-18 23:25:44.020 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-18 23:25:44.160 [info] Extension host with pid 10934 exiting with code 0
+2024-05-18 23:25:45.262 [info] Extension host with pid 11319 started
+2024-05-18 23:25:45.262 [info] Skipping acquiring lock for /home/tsrt/.config/Code/User/workspaceStorage/85cd04c3f70ea9902faf41b932d63312.
+2024-05-18 23:25:45.276 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2024-05-18 23:25:45.457 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-18 23:25:45.476 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-05-18 23:25:45.521 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-05-18 23:25:45.582 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-05-18 23:25:46.280 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-18 23:25:46.291 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-18 23:25:46.376 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-18 23:25:46.476 [info] Eager extensions activated
+2024-05-18 23:25:46.525 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:25:46.530 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:25:46.544 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:25:49.585 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-18 23:25:49.658 [error] Canceled: Canceled
+	at new O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+	at c.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+	at F.<computed>.z.charCodeAt.F.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+	at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+	at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+	at k.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+	at r.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+	at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+	at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+	at SessionStateVariable.setContext (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:65490:31)
+	at SessionStateVariable.set (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:65487:21)
+	at DefaultClient.requestCompiler (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:51127:63)
+	at runNextTicks (node:internal/process/task_queues:60:5)
+	at process.processImmediate (node:internal/timers:447:9)
+	at async DefaultClient.init (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:49892:36) setContext undefined
+2024-05-18 23:25:49.658 [error] Canceled: Canceled
+	at new O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+	at c.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+	at F.<computed>.z.charCodeAt.F.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+	at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+	at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+	at k.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+	at r.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+	at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+	at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+	at SessionStateVariable.setContext (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:65490:31)
+	at SessionStateVariable.set (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:65487:21)
+	at DefaultClient.requestCompiler (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:51128:64)
+	at runNextTicks (node:internal/process/task_queues:60:5)
+	at process.processImmediate (node:internal/timers:447:9)
+	at async DefaultClient.init (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:49892:36) setContext undefined
+2024-05-18 23:25:49.658 [error] Canceled: Canceled
+	at new O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+	at c.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+	at F.<computed>.z.charCodeAt.F.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+	at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+	at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+	at k.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+	at r.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+	at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+	at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+	at SessionStateVariable.setContext (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:65490:31)
+	at SessionStateVariable.set (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:65487:21)
+	at DefaultClient.requestCompiler (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:51129:63)
+	at runNextTicks (node:internal/process/task_queues:60:5)
+	at process.processImmediate (node:internal/timers:447:9)
+	at async DefaultClient.init (/home/tsrt/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:49892:36) setContext undefined
+2024-05-18 23:25:49.781 [info] Extension host with pid 11319 exiting with code 0
+2024-05-18 23:25:50.290 [info] Extension host with pid 11465 started
+2024-05-18 23:25:50.290 [info] Skipping acquiring lock for /home/tsrt/.config/Code/User/workspaceStorage/85cd04c3f70ea9902faf41b932d63312.
+2024-05-18 23:25:50.301 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2024-05-18 23:25:50.407 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-18 23:25:50.422 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-05-18 23:25:50.448 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-05-18 23:25:50.478 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-05-18 23:25:51.154 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-18 23:25:51.194 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-18 23:25:51.236 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-18 23:25:51.380 [info] Eager extensions activated
+2024-05-18 23:25:51.415 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:25:51.418 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:25:51.431 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 23:30:32.296 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-18 23:30:32.458 [info] Extension host with pid 11465 exiting with code 0

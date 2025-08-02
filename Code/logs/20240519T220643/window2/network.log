@@ -1,0 +1,5 @@
+2024-05-19 22:08:52.932 [error] browser #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Offline
+2024-05-19 22:09:07.126 [error] browser #2: https://api.github.com/copilot_internal/user - error GET Offline
+2024-05-19 22:09:43.031 [error] browser #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Offline
+2024-05-19 22:13:25.251 [error] browser #2: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Offline
+2024-05-19 22:18:53.033 [error] browser #3: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Offline

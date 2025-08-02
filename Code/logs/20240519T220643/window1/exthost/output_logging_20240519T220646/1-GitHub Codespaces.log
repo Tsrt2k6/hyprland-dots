@@ -1,0 +1,191 @@
+[Client I] GitHub Codespaces version 1.16.22
+[Client I] isRunningInWeb: "false"
+[Client V] Initializing authentication
+[API I] Successfully signed in
+[API E] listCodespaces error. No response received.
+[CodespaceInfo E] Failed to fetch codespaces> object #0: list codespaces request failed with status 499 code:ERR_NETWORK
+  at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:388:19)
+  at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:411:17)
+  at Generator.next (<anonymous>)
+  at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[API E] featureFlags: listCodespaces error. No response received.
+[Client:extension:342d I] initializing
+[Client:extension:342d I] creating LiveShare ConnectionHub
+[Client:extension:342d:resolver I] created with protocol "codespaces"
+[RemoteExplorer I] Updating codespace performance info
+[Client E] Failed to update codespaces list: list codespaces request failed with status 499> object #0: list codespaces request failed with status 499 code:ERR_NETWORK
+  at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:388:19)
+  at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:411:17)
+  at Generator.next (<anonymous>)
+  at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[DevContainerJsonSupport I] Initializing devcontainer.json support package
+[DevContainerJsonSupport V] [2024-05-19T14:06:51.693Z] Internal initialization of dev container support package...
+
+[Client I] Jupyter API registered? false
+[Client:extension:342d:resolver:resolve:1 I] resolve retry #3
+[Client:extension:342d:resolver:resolve:1 I] resolving "codespaces+fuzzy-computing-machine-vj4qgpvg5qg364x"
+[Client:extension:342d:resolver:resolve:1 I] codespace: "fuzzy-computing-machine-vj4qgpvg5qg364x", fetching details
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "fuzzy-computing-machine-vj4qgpvg5qg364x"
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] signed in, getting the details
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 2)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127611734"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127611734?internal=true&refresh=true&t=1716127613608"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 1)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127617352"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127617352?internal=true&refresh=true&t=1716127619286"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 0)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127622995"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127622995?internal=true&refresh=true&t=1716127624917"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client V] connect duration: 16821 ms
+[Client:extension:342d:dialog:ask-user-to-retry-network-issue W] network error, asking user to reconnect
+[Client:extension:342d:resolver E] resolve failed (3 retries left): > object #0: get codespace request failed with status 499 code:ERR_NETWORK
+  at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:522:19)
+  at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:546:28)
+  at Generator.next (<anonymous>)
+  at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[Client:extension:342d:resolver V] attaching client logs
+[Client:extension:342d:resolver:workspace-hub-client:logs: V] Agent lock on:</<redacted>/<redacted>.lock>
+[Client:extension:342d:resolver:workspace-hub-client:logs: V] Finished agent startup...
+[Client:extension:342d:resolver:workspace-hub-client:logs: V] Agent unlocked
+[Client:extension:342d:resolver:workspace-hub-client:logs: I] rpc server address info:/tmp/CoreFxPipe_hw.a393aa16d5d587c9e280bfcb965452a3 retry:93
+[Client:extension:342d:resolver:workspace-hub-client:logs: V] subscribing to onDispose event
+[Client:extension:342d:resolver:workspace-hub-client:logs: I] hub client successfully created on pipe:/tmp/CoreFxPipe_hw.a393aa16d5d587c9e280bfcb965452a3
+[Client V] < logService.getLogs()
+[Client V] > logService.getLogs() succeeded t:9.0
+[Client:extension:342d:resolver V] attaching client logs
+[Client:extension:342d:resolver:resolve:1 I] resolve retry #2
+[Client:extension:342d:resolver:resolve:1 I] resolving "codespaces+fuzzy-computing-machine-vj4qgpvg5qg364x"
+[Client:extension:342d:resolver:resolve:1 I] codespace: "fuzzy-computing-machine-vj4qgpvg5qg364x", fetching details
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "fuzzy-computing-machine-vj4qgpvg5qg364x"
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] signed in, getting the details
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 2)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127629989"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127629989?internal=true&refresh=true&t=1716127631855"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 1)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127635659"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127635659?internal=true&refresh=true&t=1716127637662"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 0)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127641365"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127641365?internal=true&refresh=true&t=1716127643335"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client V] connect duration: 16980 ms
+[Client:extension:342d:dialog:ask-user-to-retry-network-issue W] network error, asking user to reconnect
+[Client:extension:342d:resolver E] resolve failed (2 retries left): > object #0: get codespace request failed with status 499 code:ERR_NETWORK
+  at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:522:19)
+  at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:546:28)
+  at Generator.next (<anonymous>)
+  at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[Client:extension:342d:resolver V] attaching client logs
+[Client:extension:342d:resolver:workspace-hub-client:logs: V] subscribing to onDispose event
+[Client:extension:342d:resolver:workspace-hub-client:logs: I] hub client successfully created on pipe:hw.a393aa16d5d587c9e280bfcb965452a3
+[Client V] < logService.getLogs()
+[Client V] > logService.getLogs() succeeded t:2.0
+[Client:extension:342d:resolver V] attaching client logs
+[Client:extension:342d:resolver:resolve:1 I] resolve retry #1
+[Client:extension:342d:resolver:resolve:1 I] resolving "codespaces+fuzzy-computing-machine-vj4qgpvg5qg364x"
+[Client:extension:342d:resolver:resolve:1 I] codespace: "fuzzy-computing-machine-vj4qgpvg5qg364x", fetching details
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "fuzzy-computing-machine-vj4qgpvg5qg364x"
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] signed in, getting the details
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 2)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127647251"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127647251?internal=true&refresh=true&t=1716127649092"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 1)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127652976"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127652976?internal=true&refresh=true&t=1716127654840"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 0)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127658555"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127658555?internal=true&refresh=true&t=1716127660446"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client V] connect duration: 16742 ms
+[Client:extension:342d:dialog:ask-user-to-retry-network-issue W] network error, asking user to reconnect
+[Client:extension:342d:resolver E] resolve failed (1 retries left): > object #0: get codespace request failed with status 499 code:ERR_NETWORK
+  at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:522:19)
+  at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:546:28)
+  at Generator.next (<anonymous>)
+  at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[Client:extension:342d:resolver V] attaching client logs
+[Client:extension:342d:resolver:workspace-hub-client:logs: V] subscribing to onDispose event
+[Client:extension:342d:resolver:workspace-hub-client:logs: I] hub client successfully created on pipe:hw.a393aa16d5d587c9e280bfcb965452a3
+[Client V] < logService.getLogs()
+[Client V] > logService.getLogs() succeeded t:3.0
+[Client:extension:342d:resolver V] attaching client logs
+[Client:extension:342d:resolver:resolve:1 I] resolve retry #0
+[Client:extension:342d:resolver:resolve:1 I] resolving "codespaces+fuzzy-computing-machine-vj4qgpvg5qg364x"
+[Client:extension:342d:resolver:resolve:1 I] codespace: "fuzzy-computing-machine-vj4qgpvg5qg364x", fetching details
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "fuzzy-computing-machine-vj4qgpvg5qg364x"
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] signed in, getting the details
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 2)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127664280"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127664280?internal=true&refresh=true&t=1716127666157"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 1)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127670002"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127670002?internal=true&refresh=true&t=1716127671888"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client:extension:342d:resolver:resolve:1:fetch-codespace-info I] fetching codespace "fuzzy-computing-machine-vj4qgpvg5qg364x" (retries left: 0)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x"
+[API:retries-left-2 E] getCodespace error. No response received.
+[API:retries-left-1 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127675577"
+[API:retries-left-1 E] getCodespace error. No response received.
+[API:retries-left-0 I] making GET request for "https://api.github.com/user/codespaces/fuzzy-computing-machine-vj4qgpvg5qg364x?internal=true&refresh=true&t=1716127675577?internal=true&refresh=true&t=1716127677518"
+[API:retries-left-0 E] getCodespace error. No response received.
+[Client V] connect duration: 16684 ms
+[Client:extension:342d:dialog:ask-user-to-retry-network-issue W] network error, asking user to reconnect
+[Client:extension:342d:resolver E] resolve failed (0 retries left): > object #0: get codespace request failed with status 499 code:ERR_NETWORK
+  at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:522:19)
+  at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:546:28)
+  at Generator.next (<anonymous>)
+  at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[Client:extension:342d:resolver V] attaching client logs
+[Client:extension:342d:resolver:workspace-hub-client:logs: V] subscribing to onDispose event
+[Client:extension:342d:resolver:workspace-hub-client:logs: I] hub client successfully created on pipe:hw.a393aa16d5d587c9e280bfcb965452a3
+[Client V] < logService.getLogs()
+[Client V] > logService.getLogs() succeeded t:2.0
+[Client:extension:342d:resolver V] attaching client logs
+[Client:extension:342d:resolver:dialog:ask-user-to-exit I] asking user to exit the codespace

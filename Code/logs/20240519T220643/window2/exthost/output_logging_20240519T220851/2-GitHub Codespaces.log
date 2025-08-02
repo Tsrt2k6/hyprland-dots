@@ -1,0 +1,28 @@
+[Client I] GitHub Codespaces version 1.16.22
+[Client I] isRunningInWeb: "false"
+[Client V] Initializing authentication
+[API I] Successfully signed in
+[API E] featureFlags: listCodespaces error. No response received.
+[Client:extension:79fe I] initializing
+[Client:extension:79fe I] creating LiveShare ConnectionHub
+[Client:extension:79fe:resolver I] created with protocol "codespaces"
+[RemoteExplorer I] Updating codespace performance info
+[API E] listCodespaces error. No response received.
+[CodespaceInfo E] Failed to fetch codespaces> object #0: list codespaces request failed with status 499 code:ERR_NETWORK
+  at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:388:19)
+  at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:411:17)
+  at Generator.next (<anonymous>)
+  at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[DevContainerJsonSupport I] Initializing devcontainer.json support package
+[DevContainerJsonSupport V] [2024-05-19T14:09:11.451Z] Internal initialization of dev container support package...
+
+[Client I] Jupyter API registered? false
+[API E] listCodespaces error. No response received.
+[Client E] Failed to update codespaces list: list codespaces request failed with status 499> object #0: list codespaces request failed with status 499 code:ERR_NETWORK
+  at throwCommandError (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:388:19)
+  at zt.<anonymous> (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/src/api/githubApi.ts:411:17)
+  at Generator.next (<anonymous>)
+  at fulfilled (/home/tsrt/.vscode/extensions/github.codespaces-1.16.22/out/bundle/extension-node.js:354:31663)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[Client:extension:79fe:resolver V] disposing reason: 'vscode disposed the resolver', disposing 1 objects

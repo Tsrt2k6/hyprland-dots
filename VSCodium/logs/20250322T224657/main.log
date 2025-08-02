@@ -1,0 +1,3 @@
+2025-03-22 22:46:57.450 [info] update#setState disabled
+2025-03-22 22:46:57.454 [info] update#ctor - updates are disabled as there is no update URL
+2025-03-22 22:47:02.224 [info] Extension host with pid 4416 exited with code: 0, signal: unknown.

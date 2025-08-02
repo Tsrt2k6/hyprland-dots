@@ -1,0 +1,10 @@
+from random import randint
+
+def count_even(numbers):
+    result = 0
+    for x in numbers:
+        if x % 2 == 0:
+            result += 1
+    return result
+
+print(count_even(list(randint(10000000, 99999999))))

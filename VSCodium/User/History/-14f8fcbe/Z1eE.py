@@ -1,0 +1,1 @@
+print("string"[3:0:-1])# Write your solution here

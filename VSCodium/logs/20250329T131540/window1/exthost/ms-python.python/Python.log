@@ -1,0 +1,71 @@
+2025-03-29 13:15:46.696 [info] Telemetry level is off
+2025-03-29 13:15:46.696 [info] Experiments are disabled, only manually opted experiments are active.
+2025-03-29 13:15:46.696 [warning] Dir "/home/tsrt/Documents/DSA/Week 1/.pixi/envs" is not watchable (directory does not exist)
+2025-03-29 13:15:46.696 [info] Python interpreter path: /bin/python
+2025-03-29 13:15:46.713 [info] > pyenv which python
+2025-03-29 13:15:46.713 [info] cwd: ~/Documents/DSA/Week 1
+2025-03-29 13:15:48.566 [info] Starting Jedi language server for Week 1.
+2025-03-29 13:16:30.565 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/boxes.py
+2025-03-29 13:18:38.115 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/boxes.py
+2025-03-29 13:18:40.215 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 13:18:40.397 [info] CreateEnv Trigger - Skipping for /home/tsrt/Documents/DSA/Week 1/boxes.py
+2025-03-29 13:18:40.483 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/boxes.py"
+2025-03-29 13:20:43.455 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/boxes.py
+2025-03-29 13:20:56.996 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/boxes.py
+2025-03-29 13:22:54.808 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/boxes.py
+2025-03-29 13:22:55.746 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 13:22:55.748 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/boxes.py"
+2025-03-29 13:23:27.206 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/boxes.py
+2025-03-29 13:23:42.921 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/boxes.py
+2025-03-29 13:27:36.869 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/special.py
+2025-03-29 13:27:39.250 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 13:27:39.252 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/special.py"
+2025-03-29 13:27:59.086 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/special.py
+2025-03-29 13:35:51.556 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:35:52.820 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 13:35:52.822 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/student.py"
+2025-03-29 13:36:17.090 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:36:17.901 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 13:36:17.902 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/student.py"
+2025-03-29 13:37:05.975 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:37:52.382 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:40:25.091 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:40:25.865 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 13:40:25.866 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/student.py"
+2025-03-29 13:41:47.508 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:43:23.794 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:43:24.862 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 13:43:24.863 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/student.py"
+2025-03-29 13:43:34.018 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:45:47.956 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:46:29.950 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:47:35.530 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:47:36.549 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 13:47:36.550 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/student.py"
+2025-03-29 13:47:43.879 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:48:07.198 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 13:49:53.474 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/student.py
+2025-03-29 14:01:04.592 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/segments.py
+2025-03-29 14:01:05.672 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 14:01:05.674 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/segments.py"
+2025-03-29 14:01:16.745 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/segments.py
+2025-03-29 14:02:00.798 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/segments.py
+2025-03-29 14:03:38.000 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/segments.py
+2025-03-29 14:05:53.455 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/segments.py
+2025-03-29 14:13:27.731 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:16:06.546 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:18:18.689 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:19:05.027 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:19:15.403 [info] Send text to terminal: cd "/home/tsrt/Documents/DSA/Week 1"
+2025-03-29 14:19:15.405 [info] Send text to terminal: /bin/python "/home/tsrt/Documents/DSA/Week 1/even.py"
+2025-03-29 14:19:37.918 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:20:18.682 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:21:01.897 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:23:50.737 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:24:36.270 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:24:47.760 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:26:05.614 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:27:30.961 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:28:16.420 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:30:34.045 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py
+2025-03-29 14:30:44.690 [info] Discover tests for workspace name: Week 1 - uri: /home/tsrt/Documents/DSA/Week 1/even.py

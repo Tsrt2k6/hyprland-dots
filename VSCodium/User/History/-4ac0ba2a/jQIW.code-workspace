@@ -1,0 +1,101 @@
+{"folders":[
+        {
+            "name": ".tmc",
+            "path": ".tmc"
+        },
+        {
+            "name": "part07-01_hypotenuse",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-01_hypotenuse"
+        },
+        {
+            "name": "part07-02_special_characters",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-02_special_characters"
+        },
+        {
+            "name": "part07-03_fractions",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-03_fractions"
+        },
+        {
+            "name": "part07-04_lottery_numbers",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-04_lottery_numbers"
+        },
+        {
+            "name": "part07-05_password_generator_part_1",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-05_password_generator_part_1"
+        },
+        {
+            "name": "part07-06_password_generator_part_2",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-06_password_generator_part_2"
+        },
+        {
+            "name": "part07-07_dice_roller",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-07_dice_roller"
+        },
+        {
+            "name": "part07-08_random_words",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-08_random_words"
+        },
+        {
+            "name": "part07-09_how_old",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-09_how_old"
+        },
+        {
+            "name": "part07-10_valid_pic",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-10_valid_pic"
+        },
+        {
+            "name": "part07-11_screen_time",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-11_screen_time"
+        },
+        {
+            "name": "part07-12_json_files",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-12_json_files"
+        },
+        {
+            "name": "part07-13_course_statistics",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-13_course_statistics"
+        },
+        {
+            "name": "part07-14_who_cheated",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-14_who_cheated"
+        },
+        {
+            "name": "part07-15_who_cheated_2",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-15_who_cheated_2"
+        },
+        {
+            "name": "part07-16_spellchecker_2",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-16_spellchecker_2"
+        },
+        {
+            "name": "part07-17_string_helper",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper"
+        },
+        {
+            "name": "part07-18_own_programming_language",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language"
+        }
+    ],"settings":{"explorer.decorations.colors":false,"files.autoSave":"onFocusChange","files.exclude":{
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/__pycache__": true,
+            "**/.available_points.json": true,
+            "**/.tmc_test_results.json": true,
+            "**/.tmcproject.yml": true,
+            "**/tmc": true,
+            "**/.settings": true,
+            "**/.tmcproject.json": true,
+            "**/.tmc.json": true,
+            "**/.tmc.lock": true,
+            "**/.tmc_test_results.hmac.sha256": true
+        },"files.watcherExclude":{
+            "**/.git/objects/**": true,
+            "**/.git/subtree-cache/**": true,
+            "**/.hg/store/**": true,
+            "**/.vscode/**": true,
+            "**/.tmc.json": true
+        },"problems.decorations.enabled":false,"workbench.editor.closeOnFileDelete":true,"testMyCode.downloadOldSubmission":true,"testMyCode.hideMetaFiles":true,"testMyCode.updateExercisesAutomatically":true,"explorer.decorations.badges":true},"extensions":{"recommendations":["ms-python.python"]}}

@@ -1,0 +1,6 @@
+2025-03-22 22:45:50.971 [info] Marked extension as removed moocfi.test-my-code-3.2.0
+2025-03-22 22:45:50.972 [info] Marked extension as removed ms-python.debugpy-2025.0.1
+2025-03-22 22:45:50.972 [info] Marked extension as removed ms-python.python-2025.0.0
+2025-03-22 22:45:50.988 [info] Deleted marked for removal extension from disk moocfi.test-my-code /home/tsrt/.vscode-oss/extensions/moocfi.test-my-code-3.2.0-universal
+2025-03-22 22:45:51.133 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/tsrt/.vscode-oss/extensions/ms-python.debugpy-2025.0.1-linux-x64
+2025-03-22 22:45:51.138 [info] Deleted marked for removal extension from disk ms-python.python /home/tsrt/.vscode-oss/extensions/ms-python.python-2025.0.0-universal

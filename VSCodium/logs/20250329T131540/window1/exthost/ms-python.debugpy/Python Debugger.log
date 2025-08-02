@@ -1,0 +1,73 @@
+2025-03-29 13:39:06.515 [info] Debugging using the editor button 'Debug in terminal'
+2025-03-29 13:39:06.522 [info] Getting configurations for workspace
+2025-03-29 13:39:06.523 [info] No configurations found in settings.json or launch.json.
+2025-03-29 13:39:06.814 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:39:06.853 [info] Resolving launch configuration with substituted variables
+2025-03-29 13:39:06.853 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:39:06.991 [info] DAP Server launched with command: /bin/python /home/tsrt/.vscode-oss/extensions/ms-python.debugpy-2025.4.1-linux-x64/bundled/libs/debugpy/adapter
+2025-03-29 13:39:07.488 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:39:07.495 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:39:07.495 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:39:08.711 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:39:09.753 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:39:09.756 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:39:24.465 [info] Resolving launch configuration with substituted variables
+2025-03-29 13:39:24.472 [info] DAP Server launched with command: /bin/python /home/tsrt/.vscode-oss/extensions/ms-python.debugpy-2025.4.1-linux-x64/bundled/libs/debugpy/adapter
+2025-03-29 13:39:24.902 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:39:24.907 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:39:24.908 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:39:26.074 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:40:17.999 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:40:18.003 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:44:01.679 [info] Debugging using the editor button 'Debug in terminal'
+2025-03-29 13:44:01.681 [info] Getting configurations for workspace
+2025-03-29 13:44:01.681 [info] No configurations found in settings.json or launch.json.
+2025-03-29 13:44:01.881 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:44:01.890 [info] Resolving launch configuration with substituted variables
+2025-03-29 13:44:01.890 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:44:01.898 [info] DAP Server launched with command: /bin/python /home/tsrt/.vscode-oss/extensions/ms-python.debugpy-2025.4.1-linux-x64/bundled/libs/debugpy/adapter
+2025-03-29 13:44:02.283 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:44:02.287 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:44:02.288 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:44:03.375 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:44:45.931 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:44:45.936 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:46:41.280 [info] Debugging using the editor button 'Debug in terminal'
+2025-03-29 13:46:41.282 [info] Getting configurations for workspace
+2025-03-29 13:46:41.282 [info] No configurations found in settings.json or launch.json.
+2025-03-29 13:46:41.477 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:46:41.484 [info] Resolving launch configuration with substituted variables
+2025-03-29 13:46:41.484 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:46:41.490 [info] DAP Server launched with command: /bin/python /home/tsrt/.vscode-oss/extensions/ms-python.debugpy-2025.4.1-linux-x64/bundled/libs/debugpy/adapter
+2025-03-29 13:46:41.868 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:46:41.873 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:46:41.873 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:46:42.912 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:46:55.439 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:46:55.441 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:00.495 [info] Debugging using the editor button 'Debug in terminal'
+2025-03-29 13:47:00.496 [info] Getting configurations for workspace
+2025-03-29 13:47:00.497 [info] No configurations found in settings.json or launch.json.
+2025-03-29 13:47:00.646 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:47:00.662 [info] Resolving launch configuration with substituted variables
+2025-03-29 13:47:00.662 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:47:00.667 [info] DAP Server launched with command: /bin/python /home/tsrt/.vscode-oss/extensions/ms-python.debugpy-2025.4.1-linux-x64/bundled/libs/debugpy/adapter
+2025-03-29 13:47:01.009 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:01.013 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:01.013 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:02.128 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:04.828 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:04.831 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:10.461 [info] Debugging using the editor button 'Debug in terminal'
+2025-03-29 13:47:10.462 [info] Getting configurations for workspace
+2025-03-29 13:47:10.503 [info] No configurations found in settings.json or launch.json.
+2025-03-29 13:47:10.719 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:47:10.725 [info] Resolving launch configuration with substituted variables
+2025-03-29 13:47:10.725 [info] Using the only workspaceFolder found:  /home/tsrt/Documents/DSA/Week 1
+2025-03-29 13:47:10.730 [info] DAP Server launched with command: /bin/python /home/tsrt/.vscode-oss/extensions/ms-python.debugpy-2025.4.1-linux-x64/bundled/libs/debugpy/adapter
+2025-03-29 13:47:11.155 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:11.159 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:11.160 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:12.261 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:41.859 [info] Received 'debugpySockets' event from debugpy.
+2025-03-29 13:47:41.862 [info] Received 'debugpySockets' event from debugpy.

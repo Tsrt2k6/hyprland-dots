@@ -1,0 +1,1225 @@
+[2025-03-28 14:45:17:784] [INFO] Starting moocfi.test-my-code in "production" mode.
+[2025-03-28 14:45:17:785] [INFO] VSCodium version: 1.97.2
+[2025-03-28 14:45:17:786] [INFO] moocfi.test-my-code version: 3.2.1
+[2025-03-28 14:45:17:786] [INFO] Currently open workspace: mooc-programming-25 (Workspace)
+[2025-03-28 14:45:17:786] [INFO] Platform linux Arch x64
+[2025-03-28 14:45:17:787] [INFO] TMC-Langs version: tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1
+[2025-03-28 14:45:17:802] [INFO] Running "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/cli/tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1" "tmc" "--client-name" "vscode_plugin" "--client-version" "3.2.1" "logged-in"
+[2025-03-28 14:45:17:802] [DEBUG] TMC backend at https://tmc.mooc.fi
+[2025-03-28 14:45:17:803] [DEBUG] MOOC backend at https://courses.mooc.fi
+[2025-03-28 14:45:17:803] [DEBUG] Config dir at undefined
+[2025-03-28 14:45:17:874] [WARN] stderr
+[2025-03-28T14:45:17Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 14:45:18:156] [INFO] Running "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/cli/tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1" "settings" "--client-name" "vscode_plugin" "get" "projects-dir"
+[2025-03-28 14:45:18:157] [DEBUG] TMC backend at https://tmc.mooc.fi
+[2025-03-28 14:45:18:157] [DEBUG] MOOC backend at https://courses.mooc.fi
+[2025-03-28 14:45:18:157] [DEBUG] Config dir at undefined
+[2025-03-28 14:45:18:187] [WARN] stderr
+[2025-03-28T14:45:18Z DEBUG tmc_langs] fetching setting projects-dir in vscode_plugin
+[2025-03-28T14:45:18Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T14:45:18Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 14:45:20:011] [WARN] stderr
+[2025-03-28T14:45:20Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T14:45:20Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 14:45:20:021] [WARN] stderr
+[2025-03-28T14:45:20Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 14:45:20:041] [WARN] stderr
+[2025-03-28T14:45:20Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T14:45:20Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T14:45:20Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 14:45:20:114] [WARN] stderr
+[2025-03-28T14:45:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-28T14:45:20Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T14:45:20Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-28T14:45:20Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-28T14:45:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-28 14:45:20:192] [WARN] stderr
+[2025-03-28T14:45:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-28T14:45:20Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-28T14:45:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 14:45:21:390] [WARN] stderr
+[2025-03-28T14:45:21Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 14:45:22:231] [WARN] stderr
+[2025-03-28T14:45:22Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 14:45:22:634] [WARN] stderr
+[2025-03-28T14:45:22Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T14:45:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T14:45:22Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 14:45:22:647] [WARN] stderr
+[2025-03-28T14:45:22Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T14:45:22Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T14:45:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 15:05:48:070] [WARN] stderr
+[2025-03-28T15:05:48Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+
+[2025-03-28 15:05:48:075] [WARN] stderr
+[2025-03-28T15:05:48Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+
+[2025-03-28 15:05:48:076] [WARN] stderr
+[2025-03-28T15:05:48Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper as python3
+
+[2025-03-28 15:05:48:077] [WARN] stderr
+[2025-03-28T15:05:48Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+[2025-03-28T15:05:48Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+[2025-03-28T15:05:48Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper as python3
+
+[2025-03-28 15:05:48:077] [WARN] stderr
+[2025-03-28T15:05:48Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+[2025-03-28T15:05:48Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+[2025-03-28T15:05:48Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-28T15:05:48Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 15:05:48:078] [WARN] stderr
+[2025-03-28T15:05:48Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 15:05:48:121] [WARN] stderr
+[2025-03-28T15:05:48Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T15:05:48Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T15:05:48Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+
+[2025-03-28 15:05:48:121] [WARN] stderr
+[2025-03-28T15:05:48Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 15:05:48:551] [WARN] stderr
+[2025-03-28T15:05:48Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-28T15:05:48Z DEBUG tmc_langs_framework::command] stdout: Running tests with some TMC magic...
+    
+[2025-03-28T15:05:48Z DEBUG tmc_langs_framework::command] stderr: ....F.
+    ======================================================================
+    FAIL: test5_test_remove_special_characters (test.test_string_helper.StringHelperTest.test5_test_remove_special_characters)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/test/test_string_helper.py", line 103, in test5_test_remove_special_characters
+        self.assertEqual(val, correct, f"Calling remove_special_characters returns a value '{val}' with the paramater value '{test_case}' when the correct answer would have been {correct}")
+        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: 'Thi§ is a test test' != 'Thi is a test test'
+    - Thi§ is a test test
+    ?    -
+    + Thi is a test test
+     : Calling remove_special_characters returns a value 'Thi§ is a test test' with the paramater value 'Thi§ is a test: test?' when the correct answer would have been Thi is a test test
+    
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.034s
+    
+    FAILED (failures=1)
+    
+[2025-03-28T15:05:48Z DEBUG tmc_langs_python3::plugin] stderr: ....F.
+    ======================================================================
+    FAIL: test5_test_remove_special_characters (test.test_string_helper.StringHelperTest.test5_test_remove_special_characters)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/test/test_string_helper.py", line 103, in test5_test_remove_special_characters
+        self.assertEqual(val, correct, f"Calling remove_special_characters returns a value '{val}' with the paramater value '{test_case}' when the correct answer would have been {correct}")
+        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: 'Thi§ is a test test' != 'Thi is a test test'
+    - Thi§ is a test test
+    ?    -
+    + Thi is a test test
+     : Calling remove_special_characters returns a value 'Thi§ is a test test' with the paramater value 'Thi§ is a test: test?' when the correct answer would have been Thi is a test test
+    
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.034s
+    
+    FAILED (failures=1)
+    
+[2025-03-28T15:05:48Z DEBUG tmc_langs_python3::plugin] stderr: ....F.
+    ======================================================================
+    FAIL: test5_test_remove_special_characters (test.test_string_helper.StringHelperTest.test5_test_remove_special_characters)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/test/test_string_helper.py", line 103, in test5_test_remove_special_characters
+        self.assertEqual(val, correct, f"Calling remove_special_characters returns a value '{val}' with the paramater value '{test_case}' when the correct answer would have been {correct}")
+        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: 'Thi§ is a test test' != 'Thi is a test test'
+    - Thi§ is a test test
+    ?    -
+    + Thi is a test test
+     : Calling remove_special_characters returns a value 'Thi§ is a test test' with the paramater value 'Thi§ is a test: test?' when the correct answer would have been Thi is a test test
+    
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.034s
+    
+    FAILED (failures=1)
+    
+
+[2025-03-28 15:07:52:343] [WARN] stderr
+[2025-03-28T15:07:52Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+[2025-03-28T15:07:52Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+[2025-03-28T15:07:52Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper as python3
+[2025-03-28T15:07:52Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+[2025-03-28T15:07:52Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+[2025-03-28T15:07:52Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-28T15:07:52Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 15:07:52:350] [WARN] stderr
+[2025-03-28T15:07:52Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+[2025-03-28T15:07:52Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+
+[2025-03-28 15:07:52:351] [WARN] stderr
+[2025-03-28T15:07:52Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper as python3
+[2025-03-28T15:07:52Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 15:07:52:390] [WARN] stderr
+[2025-03-28T15:07:52Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T15:07:52Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T15:07:52Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+
+[2025-03-28 15:07:52:390] [WARN] stderr
+[2025-03-28T15:07:52Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 15:07:52:822] [WARN] stderr
+[2025-03-28T15:07:52Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-28T15:07:52Z DEBUG tmc_langs_framework::command] stdout: Running tests with some TMC magic...
+    
+[2025-03-28T15:07:52Z DEBUG tmc_langs_framework::command] stderr: ....F.
+    ======================================================================
+    FAIL: test5_test_remove_special_characters (test.test_string_helper.StringHelperTest.test5_test_remove_special_characters)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/test/test_string_helper.py", line 103, in test5_test_remove_special_characters
+        self.assertEqual(val, correct, f"Calling remove_special_characters returns a value '{val}' with the paramater value '{test_case}' when the correct answer would have been {correct}")
+        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: '!' != 'hey'
+    - !
+    + hey
+     : Calling remove_special_characters returns a value '!' with the paramater value 'hey!' when the correct answer would have been hey
+    
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.029s
+    
+    FAILED (failures=1)
+    
+[2025-03-28T15:07:52Z DEBUG tmc_langs_python3::plugin] stderr: ....F.
+    ======================================================================
+    FAIL: test5_test_remove_special_characters (test.test_string_helper.StringHelperTest.test5_test_remove_special_characters)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/test/test_string_helper.py", line 103, in test5_test_remove_special_characters
+        self.assertEqual(val, correct, f"Calling remove_special_characters returns a value '{val}' with the paramater value '{test_case}' when the correct answer would have been {correct}")
+        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: '!' != 'hey'
+    - !
+    + hey
+     : Calling remove_special_characters returns a value '!' with the paramater value 'hey!' when the correct answer would have been hey
+    
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.029s
+    
+    FAILED (failures=1)
+    
+[2025-03-28T15:07:52Z DEBUG tmc_langs_python3::plugin] stderr: ....F.
+    ======================================================================
+    FAIL: test5_test_remove_special_characters (test.test_string_helper.StringHelperTest.test5_test_remove_special_characters)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/test/test_string_helper.py", line 103, in test5_test_remove_special_characters
+        self.assertEqual(val, correct, f"Calling remove_special_characters returns a value '{val}' with the paramater value '{test_case}' when the correct answer would have been {correct}")
+        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: '!' != 'hey'
+    - !
+    + hey
+     : Calling remove_special_characters returns a value '!' with the paramater value 'hey!' when the correct answer would have been hey
+    
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.029s
+    
+    FAILED (failures=1)
+    
+
+[2025-03-28 15:08:14:259] [WARN] stderr
+[2025-03-28T15:08:14Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+[2025-03-28T15:08:14Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+[2025-03-28T15:08:14Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper as python3
+[2025-03-28T15:08:14Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+[2025-03-28T15:08:14Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+[2025-03-28T15:08:14Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-28T15:08:14Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 15:08:14:266] [WARN] stderr
+[2025-03-28T15:08:14Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+[2025-03-28T15:08:14Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+
+[2025-03-28 15:08:14:266] [WARN] stderr
+[2025-03-28T15:08:14Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper as python3
+[2025-03-28T15:08:14Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 15:08:14:306] [WARN] stderr
+[2025-03-28T15:08:14Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T15:08:14Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T15:08:14Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper
+
+[2025-03-28 15:08:14:306] [WARN] stderr
+[2025-03-28T15:08:14Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 15:08:14:736] [WARN] stderr
+[2025-03-28T15:08:14Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-28T15:08:14Z DEBUG tmc_langs_framework::command] stderr: ......
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.028s
+    
+    OK
+    
+[2025-03-28T15:08:14Z DEBUG tmc_langs_python3::plugin] stderr: ......
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.028s
+    
+    OK
+    
+[2025-03-28T15:08:14Z DEBUG tmc_langs_python3::plugin] stderr: ......
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.028s
+    
+    OK
+    
+
+[2025-03-28 15:08:17:786] [WARN] stderr
+[2025-03-28T15:08:17Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 15:08:17:786] [WARN] stderr
+[2025-03-28T15:08:17Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+
+[2025-03-28 15:08:17:790] [WARN] stderr
+[2025-03-28T15:08:17Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper as python3
+[2025-03-28T15:08:17Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-17_string_helper/.tmcproject.yml
+
+[2025-03-28 15:08:17:802] [WARN] stderr
+[2025-03-28T15:08:17Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273030/submissions
+
+[2025-03-28 15:08:18:801] [WARN] stderr
+[2025-03-28T15:08:18Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26201373
+
+[2025-03-28 15:08:20:103] [WARN] stderr
+[2025-03-28T15:08:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26201373
+
+[2025-03-28 15:08:20:355] [WARN] stderr
+[2025-03-28T15:08:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-28T15:08:20Z DEBUG tmc_langs] getting course data for 1490
+
+[2025-03-28 15:08:20:356] [WARN] stderr
+[2025-03-28T15:08:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 15:08:21:708] [WARN] stderr
+[2025-03-28T15:08:21Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 15:08:22:111] [WARN] stderr
+[2025-03-28T15:08:22Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 15:08:22:443] [WARN] stderr
+[2025-03-28T15:08:22Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T15:08:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T15:08:22Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 15:08:22:464] [WARN] stderr
+[2025-03-28T15:08:22Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T15:08:22Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T15:08:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 15:08:22:485] [WARN] stderr
+[2025-03-28T15:08:22Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 15:08:22:486] [WARN] stderr
+[2025-03-28T15:08:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 15:08:22:486] [WARN] stderr
+[2025-03-28T15:08:22Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+
+[2025-03-28 15:08:22:488] [WARN] stderr
+[2025-03-28T15:08:22Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 15:08:22:488] [WARN] stderr
+[2025-03-28T15:08:22Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-28 15:15:20:121] [WARN] stderr
+[2025-03-28T15:15:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 15:15:20:143] [WARN] stderr
+[2025-03-28T15:15:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-28T15:15:20Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T15:15:20Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-28T15:15:20Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-28T15:15:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-28 15:15:20:148] [WARN] stderr
+[2025-03-28T15:15:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 15:15:20:148] [WARN] stderr
+[2025-03-28T15:15:20Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-28T15:15:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 15:15:21:796] [WARN] stderr
+[2025-03-28T15:15:21Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 15:15:22:193] [WARN] stderr
+[2025-03-28T15:15:22Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 15:15:22:493] [WARN] stderr
+[2025-03-28T15:15:22Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T15:15:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T15:15:22Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 15:15:22:509] [WARN] stderr
+[2025-03-28T15:15:22Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T15:15:22Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T15:15:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 15:45:20:121] [WARN] stderr
+[2025-03-28T15:45:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 15:45:20:142] [WARN] stderr
+[2025-03-28T15:45:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-28T15:45:20Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T15:45:20Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-28T15:45:20Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-28T15:45:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-28 15:45:20:148] [WARN] stderr
+[2025-03-28T15:45:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-28T15:45:20Z DEBUG tmc_langs] getting course data for 1490
+
+[2025-03-28 15:45:20:148] [WARN] stderr
+[2025-03-28T15:45:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 15:45:21:808] [WARN] stderr
+[2025-03-28T15:45:21Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 15:45:22:260] [WARN] stderr
+[2025-03-28T15:45:22Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 15:45:22:616] [WARN] stderr
+[2025-03-28T15:45:22Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T15:45:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T15:45:22Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 15:45:22:634] [WARN] stderr
+[2025-03-28T15:45:22Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T15:45:22Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T15:45:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 16:14:07:199] [WARN] stderr
+[2025-03-28T16:14:07Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:14:07Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:14:07:205] [WARN] stderr
+[2025-03-28T16:14:07Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:14:07Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:14:07:236] [WARN] stderr
+[2025-03-28T16:14:07Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:14:07Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 16:14:07:237] [WARN] stderr
+[2025-03-28T16:14:07Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:14:07Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:14:07Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:14:07Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+
+[2025-03-28 16:14:07:237] [WARN] stderr
+[2025-03-28T16:14:07Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 16:14:07:285] [WARN] stderr
+[2025-03-28T16:14:07Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T16:14:07Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T16:14:07Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+
+[2025-03-28 16:14:07:286] [WARN] stderr
+[2025-03-28T16:14:07Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 16:14:07:755] [WARN] stderr
+[2025-03-28T16:14:07Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 16:14:07:755] [WARN] stderr
+[2025-03-28T16:14:07Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.086s
+    
+    OK
+    
+[2025-03-28T16:14:07Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.086s
+    
+    OK
+    
+[2025-03-28T16:14:07Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.086s
+    
+    OK
+    
+
+[2025-03-28 16:14:09:543] [WARN] stderr
+[2025-03-28T16:14:09Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:14:09:543] [WARN] stderr
+[2025-03-28T16:14:09Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:14:09Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:14:09Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:14:09:547] [WARN] stderr
+[2025-03-28T16:14:09Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273031/submissions
+
+[2025-03-28 16:14:10:339] [WARN] stderr
+[2025-03-28T16:14:10Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202183
+
+[2025-03-28 16:14:11:637] [WARN] stderr
+[2025-03-28T16:14:11Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202183
+
+[2025-03-28 16:14:11:993] [WARN] stderr
+[2025-03-28T16:14:11Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:14:11:994] [WARN] stderr
+[2025-03-28T16:14:11Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-28T16:14:11Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 16:14:13:345] [WARN] stderr
+[2025-03-28T16:14:13Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 16:14:13:816] [WARN] stderr
+[2025-03-28T16:14:13Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 16:14:14:084] [WARN] stderr
+[2025-03-28T16:14:14Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T16:14:14Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T16:14:14Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 16:14:14:099] [WARN] stderr
+[2025-03-28T16:14:14Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T16:14:14Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T16:14:14Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 16:14:14:118] [WARN] stderr
+[2025-03-28T16:14:14Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:14:14:118] [WARN] stderr
+[2025-03-28T16:14:14Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T16:14:14Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+
+[2025-03-28 16:14:14:119] [WARN] stderr
+[2025-03-28T16:14:14Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 16:14:14:120] [WARN] stderr
+[2025-03-28T16:14:14Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-28 16:15:13:700] [WARN] stderr
+[2025-03-28T16:15:13Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:15:13Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:15:13Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:15:13Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:15:13Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:15:13Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-28T16:15:13Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 16:15:13:706] [WARN] stderr
+[2025-03-28T16:15:13Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:15:13Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:15:13:706] [WARN] stderr
+[2025-03-28T16:15:13Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:15:13Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 16:15:13:739] [WARN] stderr
+[2025-03-28T16:15:13Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T16:15:13Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T16:15:13Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+
+[2025-03-28 16:15:13:739] [WARN] stderr
+[2025-03-28T16:15:13Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 16:15:14:098] [WARN] stderr
+[2025-03-28T16:15:14Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-28T16:15:14Z DEBUG tmc_langs_framework::command] stdout: Running tests with some TMC magic...
+    
+
+[2025-03-28 16:15:14:099] [WARN] stderr
+[2025-03-28T16:15:14Z DEBUG tmc_langs_framework::command] stderr: FFFE
+    ======================================================================
+    ERROR: test_0a_main_program_ok (test.test_own_language.OwnLanguageTest.test_0a_main_program_ok)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 104, in check_source
+        source = module.__file__
+                 ^^^^^^^^^^^^^^^
+    AttributeError: 'AssertionError' object has no attribute '__file__'. Did you mean: '__le__'?
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 22, in test_0a_main_program_ok
+        ok, line = check_source(self.module)
+                   ~~~~~~~~~~~~^^^^^^^^^^^^^
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 106, in check_source
+        raise Exception('Varmista, että koodin suoritus onnistuu')
+    Exception: Varmista, että koodin suoritus onnistuu
+    
+    ======================================================================
+    FAIL: test1_function_exists (test.test_own_language.OwnLanguageTest.test1_function_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 32, in test1_function_exists
+        from src.own_language import run
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py", line 22
+        case "PRINT":
+        ^^^^
+    IndentationError: expected an indented block after 'match' statement on line 20
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 34, in test1_function_exists
+        self.assertTrue(False, "Your program should contain function named as run")
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your program should contain function named as run
+    
+    ======================================================================
+    FAIL: test2_no_loop (test.test_own_language.OwnLanguageTest.test2_no_loop)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 56, in test2_no_loop
+        reload_module(self.module)
+        ~~~~~~~~~~~~~^^^^^^^^^^^^^
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 42, in reload_module
+        raise module
+    AssertionError: Running exercise src.own_language failed. Please make sure that you can run your code.
+    
+    ======================================================================
+    FAIL: test3_all_commands (test.test_own_language.OwnLanguageTest.test3_all_commands)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 87, in test3_all_commands
+        reload_module(self.module)
+        ~~~~~~~~~~~~~^^^^^^^^^^^^^
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 42, in reload_module
+        raise module
+    AssertionError: Running exercise src.own_language failed. Please make sure that you can run your code.
+    
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.026s
+    
+    FAILED (failures=3, errors=1)
+    
+[2025-03-28T16:15:14Z DEBUG tmc_langs_python3::plugin] stderr: FFFE
+    ======================================================================
+    ERROR: test_0a_main_program_ok (test.test_own_language.OwnLanguageTest.test_0a_main_program_ok)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 104, in check_source
+        source = module.__file__
+                 ^^^^^^^^^^^^^^^
+    AttributeError: 'AssertionError' object has no attribute '__file__'. Did you mean: '__le__'?
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 22, in test_0a_main_program_ok
+        ok, line = check_source(self.module)
+                   ~~~~~~~~~~~~^^^^^^^^^^^^^
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 106, in check_source
+        raise Exception('Varmista, että koodin suoritus onnistuu')
+    Exception: Varmista, että koodin suoritus onnistuu
+    
+    ======================================================================
+    FAIL: test1_function_exists (test.test_own_language.OwnLanguageTest.test1_function_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 32, in test1_function_exists
+        from src.own_language import run
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py", line 22
+        case "PRINT":
+        ^^^^
+    IndentationError: expected an indented block after 'match' statement on line 20
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 34, in test1_function_exists
+        self.assertTrue(False, "Your program should contain function named as run")
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your program should contain function named as run
+    
+    ======================================================================
+    FAIL: test2_no_loop (test.test_own_language.OwnLanguageTest.test2_no_loop)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 56, in test2_no_loop
+        reload_module(self.module)
+        ~~~~~~~~~~~~~^^^^^^^^^^^^^
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 42, in reload_module
+        raise module
+    AssertionError: Running exercise src.own_language failed. Please make sure that you can run your code.
+    
+    ======================================================================
+    FAIL: test3_all_commands (test.test_own_language.OwnLanguageTest.test3_all_commands)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 87, in test3_all_commands
+        reload_module(self.module)
+        ~~~~~~~~~~~~~^^^^^^^^^^^^^
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 42, in reload_module
+        raise module
+    AssertionError: Running exercise src.own_language failed. Please make sure that you can run your code.
+    
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.026s
+    
+    FAILED (failures=3, errors=1)
+    
+[2025-03-28T16:15:14Z DEBUG tmc_langs_python3::plugin] stderr: FFFE
+    ======================================================================
+    ERROR: test_0a_main_program_ok (test.test_own_language.OwnLanguageTest.test_0a_main_program_ok)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 104, in check_source
+        source = module.__file__
+                 ^^^^^^^^^^^^^^^
+    AttributeError: 'AssertionError' object has no attribute '__file__'. Did you mean: '__le__'?
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 22, in test_0a_main_program_ok
+        ok, line = check_source(self.module)
+                   ~~~~~~~~~~~~^^^^^^^^^^^^^
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 106, in check_source
+        raise Exception('Varmista, että koodin suoritus onnistuu')
+    Exception: Varmista, että koodin suoritus onnistuu
+    
+    ======================================================================
+    FAIL: test1_function_exists (test.test_own_language.OwnLanguageTest.test1_function_exists)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 32, in test1_function_exists
+        from src.own_language import run
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/src/own_language.py", line 22
+        case "PRINT":
+        ^^^^
+    IndentationError: expected an indented block after 'match' statement on line 20
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 34, in test1_function_exists
+        self.assertTrue(False, "Your program should contain function named as run")
+        ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError: False is not true : Your program should contain function named as run
+    
+    ======================================================================
+    FAIL: test2_no_loop (test.test_own_language.OwnLanguageTest.test2_no_loop)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 56, in test2_no_loop
+        reload_module(self.module)
+        ~~~~~~~~~~~~~^^^^^^^^^^^^^
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 42, in reload_module
+        raise module
+    AssertionError: Running exercise src.own_language failed. Please make sure that you can run your code.
+    
+    ======================================================================
+    FAIL: test3_all_commands (test.test_own_language.OwnLanguageTest.test3_all_commands)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/test/test_own_language.py", line 87, in test3_all_commands
+        reload_module(self.module)
+        ~~~~~~~~~~~~~^^^^^^^^^^^^^
+      File "/home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/tmc/utils.py", line 42, in reload_module
+        raise module
+    AssertionError: Running exercise src.own_language failed. Please make sure that you can run your code.
+    
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.026s
+    
+    FAILED (failures=3, errors=1)
+    
+
+[2025-03-28 16:15:20:122] [WARN] stderr
+[2025-03-28T16:15:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:15:20:140] [WARN] stderr
+[2025-03-28T16:15:20Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-28T16:15:20Z DEBUG tmc_langs] getting course data for 1490
+
+[2025-03-28 16:15:20:141] [WARN] stderr
+[2025-03-28T16:15:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 16:15:21:702] [WARN] stderr
+[2025-03-28T16:15:21Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 16:15:22:095] [WARN] stderr
+[2025-03-28T16:15:22Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 16:15:22:412] [WARN] stderr
+[2025-03-28T16:15:22Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T16:15:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T16:15:22Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 16:15:22:430] [WARN] stderr
+[2025-03-28T16:15:22Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T16:15:22Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T16:15:22Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 16:15:32:208] [WARN] stderr
+[2025-03-28T16:15:32Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:15:32Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:15:32Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:15:32Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:15:32Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:15:32Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-28T16:15:32Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 16:15:32:214] [WARN] stderr
+[2025-03-28T16:15:32Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:15:32Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:15:32Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:15:32Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 16:15:32:244] [WARN] stderr
+[2025-03-28T16:15:32Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T16:15:32Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T16:15:32Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+
+[2025-03-28 16:15:32:244] [WARN] stderr
+[2025-03-28T16:15:32Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 16:15:32:545] [WARN] stderr
+[2025-03-28T16:15:32Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-28T16:15:32Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.059s
+    
+    OK
+    
+[2025-03-28T16:15:32Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.059s
+    
+    OK
+    
+[2025-03-28T16:15:32Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.059s
+    
+    OK
+    
+
+[2025-03-28 16:15:48:424] [WARN] stderr
+[2025-03-28T16:15:48Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:15:48:425] [WARN] stderr
+[2025-03-28T16:15:48Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:15:48:428] [WARN] stderr
+[2025-03-28T16:15:48Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:15:48Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:15:48Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273031/submissions
+
+[2025-03-28 16:15:49:255] [WARN] stderr
+[2025-03-28T16:15:49Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202197
+
+[2025-03-28 16:15:50:553] [WARN] stderr
+[2025-03-28T16:15:50Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202197
+
+[2025-03-28 16:15:50:909] [WARN] stderr
+[2025-03-28T16:15:50Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:15:50:910] [WARN] stderr
+[2025-03-28T16:15:50Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-28T16:15:50Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 16:15:52:278] [WARN] stderr
+[2025-03-28T16:15:52Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 16:15:52:734] [WARN] stderr
+[2025-03-28T16:15:52Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 16:15:53:096] [WARN] stderr
+[2025-03-28T16:15:53Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T16:15:53Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T16:15:53Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 16:15:53:112] [WARN] stderr
+[2025-03-28T16:15:53Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T16:15:53Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T16:15:53Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 16:16:47:494] [WARN] stderr
+[2025-03-28T16:16:47Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:16:47Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:16:47Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:16:47Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:16:47Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:16:47Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-28T16:16:47Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 16:16:47:499] [WARN] stderr
+[2025-03-28T16:16:47Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:16:47Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:16:47:500] [WARN] stderr
+[2025-03-28T16:16:47Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:16:47Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 16:16:47:530] [WARN] stderr
+[2025-03-28T16:16:47Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T16:16:47Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T16:16:47Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+
+[2025-03-28 16:16:47:530] [WARN] stderr
+[2025-03-28T16:16:47Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 16:16:47:957] [WARN] stderr
+[2025-03-28T16:16:47Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-28T16:16:47Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.094s
+    
+    OK
+    
+[2025-03-28T16:16:47Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.094s
+    
+    OK
+    
+[2025-03-28T16:16:47Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.094s
+    
+    OK
+    
+
+[2025-03-28 16:16:49:165] [WARN] stderr
+[2025-03-28T16:16:49Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:16:49:166] [WARN] stderr
+[2025-03-28T16:16:49Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:16:49:168] [WARN] stderr
+[2025-03-28T16:16:49Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:16:49Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:16:49Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273031/submissions
+
+[2025-03-28 16:16:49:984] [WARN] stderr
+[2025-03-28T16:16:49Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202209
+
+[2025-03-28 16:16:51:178] [WARN] stderr
+[2025-03-28T16:16:51Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202209
+
+[2025-03-28 16:16:51:434] [WARN] stderr
+[2025-03-28T16:16:51Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-28T16:16:51Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-28T16:16:51Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 16:16:53:047] [WARN] stderr
+[2025-03-28T16:16:53Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 16:16:53:481] [WARN] stderr
+[2025-03-28T16:16:53Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 16:16:53:852] [WARN] stderr
+[2025-03-28T16:16:53Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T16:16:53Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T16:16:53Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 16:16:53:869] [WARN] stderr
+[2025-03-28T16:16:53Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T16:16:53Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T16:16:53Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 16:17:01:211] [WARN] stderr
+[2025-03-28T16:17:01Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:17:01Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:17:01Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:17:01Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:17:01Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:17:01Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-28T16:17:01Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 16:17:01:217] [WARN] stderr
+[2025-03-28T16:17:01Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:17:01Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:17:01:217] [WARN] stderr
+[2025-03-28T16:17:01Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:17:01Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 16:17:01:247] [WARN] stderr
+[2025-03-28T16:17:01Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T16:17:01Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T16:17:01Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+
+[2025-03-28 16:17:01:247] [WARN] stderr
+[2025-03-28T16:17:01Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 16:17:01:646] [WARN] stderr
+[2025-03-28T16:17:01Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-28T16:17:01Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.083s
+    
+    OK
+    
+[2025-03-28T16:17:01Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.083s
+    
+    OK
+    
+[2025-03-28T16:17:01Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.083s
+    
+    OK
+    
+
+[2025-03-28 16:22:01:111] [WARN] stderr
+[2025-03-28T16:22:01Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:22:01Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:22:01Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:22:01Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:22:01Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:22:01Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-28T16:22:01Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 16:22:01:116] [WARN] stderr
+[2025-03-28T16:22:01Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:22:01Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:22:01:117] [WARN] stderr
+[2025-03-28T16:22:01Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:22:01Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 16:22:01:148] [WARN] stderr
+[2025-03-28T16:22:01Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T16:22:01Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T16:22:01Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:22:01Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 16:22:01:586] [WARN] stderr
+[2025-03-28T16:22:01Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 16:22:01:586] [WARN] stderr
+[2025-03-28T16:22:01Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.086s
+    
+    OK
+    
+[2025-03-28T16:22:01Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.086s
+    
+    OK
+    
+[2025-03-28T16:22:01Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.086s
+    
+    OK
+    
+
+[2025-03-28 16:22:03:077] [WARN] stderr
+[2025-03-28T16:22:03Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:22:03:077] [WARN] stderr
+[2025-03-28T16:22:03Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:22:03:080] [WARN] stderr
+[2025-03-28T16:22:03Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:22:03Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:22:03Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273031/submissions
+
+[2025-03-28 16:22:03:759] [WARN] stderr
+[2025-03-28T16:22:03Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202282
+
+[2025-03-28 16:22:05:032] [WARN] stderr
+[2025-03-28T16:22:05Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202282
+
+[2025-03-28 16:22:05:387] [WARN] stderr
+[2025-03-28T16:22:05Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:22:05:388] [WARN] stderr
+[2025-03-28T16:22:05Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-28T16:22:05Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 16:22:06:904] [WARN] stderr
+[2025-03-28T16:22:06Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 16:22:07:318] [WARN] stderr
+[2025-03-28T16:22:07Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 16:22:07:914] [WARN] stderr
+[2025-03-28T16:22:07Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T16:22:07Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T16:22:07Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 16:22:07:933] [WARN] stderr
+[2025-03-28T16:22:07Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T16:22:07Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T16:22:07Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 16:22:07:959] [WARN] stderr
+[2025-03-28T16:22:07Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:22:07:959] [WARN] stderr
+[2025-03-28T16:22:07Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T16:22:07Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+
+[2025-03-28 16:22:07:961] [WARN] stderr
+[2025-03-28T16:22:07Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 16:22:07:961] [WARN] stderr
+[2025-03-28T16:22:07Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-28 16:28:30:941] [WARN] stderr
+[2025-03-28T16:28:30Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:28:30Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:28:30Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:28:30Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:28:30Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:28:30Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+[2025-03-28T16:28:30Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-28 16:28:30:948] [WARN] stderr
+[2025-03-28T16:28:30Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+[2025-03-28T16:28:30Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:28:30:949] [WARN] stderr
+[2025-03-28T16:28:30Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:28:30Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-28 16:28:30:988] [WARN] stderr
+[2025-03-28T16:28:30Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-28T16:28:30Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-28T16:28:30Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language
+
+[2025-03-28 16:28:30:988] [WARN] stderr
+[2025-03-28T16:28:30Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-28 16:28:31:400] [WARN] stderr
+[2025-03-28T16:28:31Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-28T16:28:31Z DEBUG tmc_langs_framework::command] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.086s
+    
+    OK
+    
+[2025-03-28T16:28:31Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.086s
+    
+    OK
+    
+[2025-03-28T16:28:31Z DEBUG tmc_langs_python3::plugin] stderr: ....
+    ----------------------------------------------------------------------
+    Ran 4 tests in 0.086s
+    
+    OK
+    
+
+[2025-03-28 16:28:34:002] [WARN] stderr
+[2025-03-28T16:28:34Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:28:34:002] [WARN] stderr
+[2025-03-28T16:28:34Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+
+[2025-03-28 16:28:34:007] [WARN] stderr
+[2025-03-28T16:28:34Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language as python3
+[2025-03-28T16:28:34Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-18_own_programming_language/.tmcproject.yml
+[2025-03-28T16:28:34Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273031/submissions
+
+[2025-03-28 16:28:34:900] [WARN] stderr
+[2025-03-28T16:28:34Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202360
+
+[2025-03-28 16:28:36:202] [WARN] stderr
+[2025-03-28T16:28:36Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26202360
+
+[2025-03-28 16:28:36:558] [WARN] stderr
+[2025-03-28T16:28:36Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:28:36:558] [WARN] stderr
+[2025-03-28T16:28:36Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-28T16:28:36Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 16:28:37:922] [WARN] stderr
+[2025-03-28T16:28:37Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 16:28:38:484] [WARN] stderr
+[2025-03-28T16:28:38Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 16:28:38:865] [WARN] stderr
+[2025-03-28T16:28:38Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T16:28:38Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T16:28:38Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 16:28:38:898] [WARN] stderr
+[2025-03-28T16:28:38Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T16:28:38Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T16:28:38Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 16:28:38:958] [WARN] stderr
+[2025-03-28T16:28:38Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 16:28:38:959] [WARN] stderr
+[2025-03-28T16:28:38Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T16:28:38Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+
+[2025-03-28 16:28:38:961] [WARN] stderr
+[2025-03-28T16:28:38Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 16:28:38:962] [WARN] stderr
+[2025-03-28T16:28:38Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-28 17:22:52:661] [WARN] stderr
+[2025-03-28T17:22:52Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 17:22:52:682] [WARN] stderr
+[2025-03-28T17:22:52Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-28T17:22:52Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T17:22:52Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-28T17:22:52Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-28T17:22:52Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-28 17:22:52:687] [WARN] stderr
+[2025-03-28T17:22:52Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-28 17:22:52:688] [WARN] stderr
+[2025-03-28T17:22:52Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-28T17:22:52Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-28 17:22:54:403] [WARN] stderr
+[2025-03-28T17:22:54Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-28 17:22:55:128] [WARN] stderr
+[2025-03-28T17:22:55Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-28 17:22:55:417] [WARN] stderr
+[2025-03-28T17:22:55Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-28T17:22:55Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T17:22:55Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-28 17:22:55:438] [WARN] stderr
+[2025-03-28T17:22:55Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T17:22:55Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-28T17:22:55Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 17:24:18:536] [WARN] stderr
+[2025-03-28T17:24:18Z DEBUG tmc_langs] setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-28T17:24:18Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-28 17:24:18:537] [WARN] stderr
+[2025-03-28T17:24:18Z INFO  tmc_langs::config::tmc_config] Saving config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-28T17:24:18Z DEBUG tmc_langs::config::tmc_config] Saving config to temporary path
+
+[2025-03-28 17:24:18:537] [WARN] stderr
+[2025-03-28T17:24:18Z DEBUG tmc_langs::config::tmc_config] Moving new config over old one
+

@@ -1,0 +1,27 @@
+2025-03-26 22:18:47.174 [info] Extension host with pid 1649 started
+2025-03-26 22:18:47.174 [info] Skipping acquiring lock for /home/tsrt/.config/VSCodium/User/workspaceStorage/e9d09824ca4bafdd40f221947469c7e4.
+2025-03-26 22:18:47.808 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-26 22:18:47.879 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-03-26 22:18:48.849 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-26 22:18:49.401 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-26 22:18:49.629 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-26 22:18:49.722 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-03-26 22:18:49.931 [info] ExtensionService#_doActivateExtension moocfi.test-my-code, startup: true, activationEvent: 'workspaceContains:**/TMC-Readme.md'
+2025-03-26 22:18:51.035 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-26 22:18:51.077 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-26 22:18:51.272 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-26 22:18:51.937 [info] Eager extensions activated
+2025-03-26 22:18:52.104 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-26 22:18:52.118 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-26 22:19:26.460 [warning] DiagnosticCollection with name 'python' does already exist.
+2025-03-26 22:29:23.790 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-03-27 00:06:40.507 [warning] DiagnosticCollection with name 'python' does already exist.
+2025-03-27 01:16:59.895 [warning] DiagnosticCollection with name 'python' does already exist.
+2025-03-27 01:46:01.426 [error] [ms-python.python] provider FAILED
+2025-03-27 01:46:01.426 [error] Error: EOFError: Ran out of input
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1974693)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1972653)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/out/client/extension.js:2:1968947)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-03-27 01:52:17.549 [warning] DiagnosticCollection with name 'python' does already exist.
+2025-03-27 04:00:38.275 [warning] DiagnosticCollection with name 'python' does already exist.

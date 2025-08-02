@@ -1,0 +1,190 @@
+{"folders":[
+        {
+            "name": ".tmc",
+            "path": ".tmc"
+        },
+        {
+            "name": "part04-01_hello_visual_studio_code",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-01_hello_visual_studio_code"
+        },
+        {
+            "name": "part04-02_line",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-02_line"
+        },
+        {
+            "name": "part04-03_box_of_hashes",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-03_box_of_hashes"
+        },
+        {
+            "name": "part04-04_square_of_hashes",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-04_square_of_hashes"
+        },
+        {
+            "name": "part04-05_square",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-05_square"
+        },
+        {
+            "name": "part04-06_triangle",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-06_triangle"
+        },
+        {
+            "name": "part04-07_shape",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-07_shape"
+        },
+        {
+            "name": "part04-08_spruce",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-08_spruce"
+        },
+        {
+            "name": "part04-09_greatest_number",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-09_greatest_number"
+        },
+        {
+            "name": "part04-10_same_characters",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-10_same_characters"
+        },
+        {
+            "name": "part04-11_first_second_last",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-11_first_second_last"
+        },
+        {
+            "name": "part04-12_change_value_of_item",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-12_change_value_of_item"
+        },
+        {
+            "name": "part04-13_add_items_to_list",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-13_add_items_to_list"
+        },
+        {
+            "name": "part04-14_addition_and_removal",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-14_addition_and_removal"
+        },
+        {
+            "name": "part04-15_same_word_twice",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-15_same_word_twice"
+        },
+        {
+            "name": "part04-16_list_twice",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-16_list_twice"
+        },
+        {
+            "name": "part04-17_length_of_list",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-17_length_of_list"
+        },
+        {
+            "name": "part04-18_mean",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-18_mean"
+        },
+        {
+            "name": "part04-19_range_of_list",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-19_range_of_list"
+        },
+        {
+            "name": "part04-20_star_studded",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-20_star_studded"
+        },
+        {
+            "name": "part04-21_negative_to_positive",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-21_negative_to_positive"
+        },
+        {
+            "name": "part04-22_list_of_stars",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-22_list_of_stars"
+        },
+        {
+            "name": "part04-23_anagrams",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-23_anagrams"
+        },
+        {
+            "name": "part04-24_palindromes",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-24_palindromes"
+        },
+        {
+            "name": "part04-25_sum_of_positives",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-25_sum_of_positives"
+        },
+        {
+            "name": "part04-26_even_numbers",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-26_even_numbers"
+        },
+        {
+            "name": "part04-27_sum_of_lists",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-27_sum_of_lists"
+        },
+        {
+            "name": "part04-28_distinct_numbers",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-28_distinct_numbers"
+        },
+        {
+            "name": "part04-29_length_of_longest",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-29_length_of_longest"
+        },
+        {
+            "name": "part04-30_shortest_in_list",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-30_shortest_in_list"
+        },
+        {
+            "name": "part04-31_all_longest_in_list",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-31_all_longest_in_list"
+        },
+        {
+            "name": "part04-32_integers_to_strings",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-32_integers_to_strings"
+        },
+        {
+            "name": "part04-33_everything_reversed",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-33_everything_reversed"
+        },
+        {
+            "name": "part04-34_most_common_character",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-34_most_common_character"
+        },
+        {
+            "name": "part04-35_no_vowels_allowed",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-35_no_vowels_allowed"
+        },
+        {
+            "name": "part04-36_no_shouting_allowed",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-36_no_shouting_allowed"
+        },
+        {
+            "name": "part04-37_neighbours_in_list",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-37_neighbours_in_list"
+        },
+        {
+            "name": "part04-38_grade_statistics",
+            "path": "../../../../../../Documents/MOOC.fi/mooc-programming-25/part04-38_grade_statistics"
+        }
+    ],"settings":{"explorer.decorations.colors":false,"files.autoSave":"onFocusChange","files.exclude":{
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/__pycache__": true,
+            "**/.available_points.json": true,
+            "**/.tmc_test_results.json": true,
+            "**/.tmcproject.yml": true,
+            "**/tmc": true,
+            "**/.settings": true,
+            "**/.tmcproject.json": true,
+            "**/.tmc.json": true,
+            "**/.tmc.lock": true,
+            "**/.tmc_test_results.hmac.sha256": true
+        },
+        "files.watcherExclude": {
+            "**/.git/objects/**": true,
+            "**/.git/subtree-cache/**": true,
+            "**/.hg/store/**": true,
+            "**/.vscode/**": true,
+            "**/.tmc.json": true
+        },
+        "problems.decorations.enabled": false,
+        "workbench.editor.closeOnFileDelete": true,
+        "testMyCode.downloadOldSubmission": true,
+        "testMyCode.hideMetaFiles": true,
+        "testMyCode.updateExercisesAutomatically": true,
+        "explorer.decorations.badges": true
+    }
+}

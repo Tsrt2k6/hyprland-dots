@@ -1,0 +1,32 @@
+def main():
+    score_calc(user_input())
+
+def user_input():
+    score_list = []
+    while True:
+        scores = input()
+        if scores == "":
+            break
+        score_list.append(scores)
+    return score_list
+
+def score_calc(score_list):
+    total = []
+    for score in score_list:
+        exam, exercise = score.split()
+        if int(exam) < 10:   # Exception cutoff point, results in insta fail lol
+            total.append(0)
+        else:
+            sum = int(exam) + int(exercise) // 10
+            total.append(sum)
+    return total
+
+def statistics(score_list):
+    total = 0
+    pass_count = 0
+    for score in score_list:
+
+        
+
+
+main()

@@ -1,0 +1,1 @@
+print("string"[len("string") - 1: -2:-1])# Write your solution here

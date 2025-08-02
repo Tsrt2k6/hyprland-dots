@@ -1,0 +1,2 @@
+def invert(store):
+    

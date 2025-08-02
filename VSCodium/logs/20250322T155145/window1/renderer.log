@@ -1,0 +1,11 @@
+2025-03-22 15:51:47.161 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-22 15:51:47.163 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-22 15:51:47.165 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-22 15:51:47.166 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-22 15:51:48.957 [info] Started local extension host with pid 1815.
+2025-03-22 15:51:54.962 [info] [perf] Render performance baseline is 106ms
+2025-03-22 17:18:44.300 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/out/client/extension.js:2:1973990)
+	at oe (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/out/client/extension.js:2:1971950)
+	at Immediate.<anonymous> (/home/tsrt/.vscode-oss/extensions/ms-python.python-2025.0.0-universal/out/client/extension.js:2:1968244)
+	at process.processImmediate (node:internal/timers:483:21)

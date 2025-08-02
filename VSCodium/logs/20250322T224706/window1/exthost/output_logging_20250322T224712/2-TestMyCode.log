@@ -1,0 +1,169 @@
+[2025-03-22 14:47:16:397] [INFO] Starting moocfi.test-my-code in "production" mode.
+[2025-03-22 14:47:16:398] [INFO] VSCodium version: 1.97.2
+[2025-03-22 14:47:16:398] [INFO] moocfi.test-my-code version: 3.2.1
+[2025-03-22 14:47:16:398] [INFO] Currently open workspace: mooc-programming-25 (Workspace)
+[2025-03-22 14:47:16:399] [INFO] Platform linux Arch x64
+[2025-03-22 14:47:16:399] [INFO] TMC-Langs version: tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1
+[2025-03-22 14:47:16:413] [INFO] Running "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/cli/tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1" "tmc" "--client-name" "vscode_plugin" "--client-version" "3.2.1" "logged-in"
+[2025-03-22 14:47:16:414] [DEBUG] TMC backend at https://tmc.mooc.fi
+[2025-03-22 14:47:16:414] [DEBUG] MOOC backend at https://courses.mooc.fi
+[2025-03-22 14:47:16:414] [DEBUG] Config dir at undefined
+[2025-03-22 14:47:16:505] [WARN] stderr
+[2025-03-22T14:47:16Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-22 14:47:17:062] [INFO] Running "/home/tsrt/.config/VSCodium/User/globalStorage/moocfi.test-my-code/cli/tmc-langs-cli-x86_64-unknown-linux-gnu-0.37.1" "settings" "--client-name" "vscode_plugin" "get" "projects-dir"
+[2025-03-22 14:47:17:062] [DEBUG] TMC backend at https://tmc.mooc.fi
+[2025-03-22 14:47:17:062] [DEBUG] MOOC backend at https://courses.mooc.fi
+[2025-03-22 14:47:17:062] [DEBUG] Config dir at undefined
+[2025-03-22 14:47:17:084] [WARN] stderr
+[2025-03-22T14:47:17Z DEBUG tmc_langs] fetching setting projects-dir in vscode_plugin
+[2025-03-22T14:47:17Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-22T14:47:17Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-22 14:47:17:932] [WARN] stderr
+[2025-03-22T14:47:17Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-22T14:47:17Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-22T14:47:17Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-22 14:47:17:956] [WARN] stderr
+[2025-03-22T14:47:17Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-22T14:47:17Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-22T14:47:17Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-22 14:47:18:017] [WARN] stderr
+[2025-03-22T14:47:18Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-22T14:47:18Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-22T14:47:18Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+[2025-03-22T14:47:18Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+[2025-03-22T14:47:18Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
+[2025-03-22 14:47:18:129] [WARN] stderr
+[2025-03-22T14:47:18Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+[2025-03-22T14:47:18Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-22T14:47:18Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-22 14:47:19:719] [WARN] stderr
+[2025-03-22T14:47:19Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-22 14:47:20:130] [WARN] stderr
+[2025-03-22T14:47:20Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-22 14:47:20:474] [WARN] stderr
+[2025-03-22T14:47:20Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-22T14:47:20Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-22T14:47:20Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-22 14:47:20:486] [WARN] stderr
+[2025-03-22T14:47:20Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-22T14:47:20Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-22T14:47:20Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-22 15:06:23:264] [WARN] stderr
+[2025-03-22T15:06:23Z DEBUG tmc_langs] running tests in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files
+
+[2025-03-22 15:06:23:269] [WARN] stderr
+[2025-03-22T15:06:23Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files/.tmcproject.yml
+
+[2025-03-22 15:06:23:270] [WARN] stderr
+[2025-03-22T15:06:23Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files as python3
+
+[2025-03-22 15:06:23:271] [WARN] stderr
+[2025-03-22T15:06:23Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files/.tmcproject.yml
+[2025-03-22T15:06:23Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files/.tmcproject.yml
+[2025-03-22T15:06:23Z DEBUG tmc_langs_python3::plugin] using Python from environment variable TMC_LANGS_PYTHON_EXEC=/bin/python
+
+[2025-03-22 15:06:23:271] [WARN] stderr
+[2025-03-22T15:06:23Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+
+[2025-03-22 15:06:23:271] [WARN] stderr
+[2025-03-22T15:06:23Z DEBUG tmc_langs] checking code style in /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files
+[2025-03-22T15:06:23Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files/.tmcproject.yml
+
+[2025-03-22 15:06:23:271] [WARN] stderr
+[2025-03-22T15:06:23Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files as python3
+[2025-03-22T15:06:23Z WARN  tmc_langs_util::file_util::lock_unix] Failed to remove lock file /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files/.tmc.lock: Resource temporarily unavailable (os error 11)
+
+[2025-03-22 15:06:23:314] [WARN] stderr
+[2025-03-22T15:06:23Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -c 'import sys; print(sys.version_info.major); print(sys.version_info.minor); print(sys.version_info.micro);'
+[2025-03-22T15:06:23Z DEBUG tmc_langs_framework::command] stderr: 
+[2025-03-22T15:06:23Z DEBUG tmc_langs_python3::plugin] running tmc command at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files
+
+[2025-03-22 15:06:23:314] [WARN] stderr
+[2025-03-22T15:06:23Z INFO  tmc_langs_framework::command] executing LANG=en_US.UTF-8 /bin/python -m tmc
+
+[2025-03-22 15:06:23:751] [WARN] stderr
+[2025-03-22T15:06:23Z INFO  tmc_langs_framework::command] finished executing LANG=en_US.UTF-8 /bin/python -m tmc
+[2025-03-22T15:06:23Z DEBUG tmc_langs_framework::command] stderr: ......
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.011s
+    
+    OK
+    
+[2025-03-22T15:06:23Z DEBUG tmc_langs_python3::plugin] stderr: ......
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.011s
+    
+    OK
+    
+[2025-03-22T15:06:23Z DEBUG tmc_langs_python3::plugin] stderr: ......
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.011s
+    
+    OK
+    
+
+[2025-03-22 15:06:25:419] [WARN] stderr
+[2025-03-22T15:06:25Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-22 15:06:25:420] [WARN] stderr
+[2025-03-22T15:06:25Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files/.tmcproject.yml
+[2025-03-22T15:06:25Z INFO  tmc_langs_plugins] Detected project at /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files as python3
+[2025-03-22T15:06:25Z DEBUG tmc_langs_framework::tmc_project_yml] reading .tmcproject.yml from /home/tsrt/Documents/MOOC.fi/mooc-programming-25/part07-12_json_files/.tmcproject.yml
+
+[2025-03-22 15:06:25:435] [WARN] stderr
+[2025-03-22T15:06:25Z INFO  tmc_testmycode_client::client::api_v8] POST https://tmc.mooc.fi/api/v8/core/exercises/273041/submissions
+
+[2025-03-22 15:06:26:292] [WARN] stderr
+[2025-03-22T15:06:26Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26116641
+
+[2025-03-22 15:06:27:594] [WARN] stderr
+[2025-03-22T15:06:27Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/submissions/26116641
+
+[2025-03-22 15:06:27:839] [WARN] stderr
+[2025-03-22T15:06:27Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-22 15:06:27:839] [WARN] stderr
+[2025-03-22T15:06:27Z DEBUG tmc_langs] getting course data for 1490
+[2025-03-22T15:06:27Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/courses/1490
+
+[2025-03-22 15:06:29:258] [WARN] stderr
+[2025-03-22T15:06:29Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490/exercises
+
+[2025-03-22 15:06:29:649] [WARN] stderr
+[2025-03-22T15:06:29Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/courses/1490
+
+[2025-03-22 15:06:29:940] [WARN] stderr
+[2025-03-22T15:06:29Z DEBUG tmc_langs::config] listing local course exercises of mooc-programming-25 for vscode_plugin
+[2025-03-22T15:06:29Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-22 15:06:29:944] [WARN] stderr
+[2025-03-22T15:06:29Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-22 15:06:30:038] [WARN] stderr
+[2025-03-22T15:06:29Z DEBUG tmc_langs] fetching setting closed-exercises-for:mooc-programming-25 in vscode_plugin
+[2025-03-22T15:06:29Z DEBUG tmc_langs] fetching settings for vscode_plugin
+[2025-03-22T15:06:29Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+
+[2025-03-22 15:06:30:061] [WARN] stderr
+[2025-03-22T15:06:30Z DEBUG tmc_langs::config::credentials] Loading credentials from /home/tsrt/.config/tmc-vscode_plugin/credentials.json
+
+[2025-03-22 15:06:30:061] [WARN] stderr
+[2025-03-22T15:06:30Z DEBUG tmc_langs::config::tmc_config] Loading config at /home/tsrt/.config/tmc-vscode_plugin/config.toml
+[2025-03-22T15:06:30Z DEBUG tmc_langs] checking exercise updates in /home/tsrt/Documents/MOOC.fi
+
+[2025-03-22 15:06:30:063] [WARN] stderr
+[2025-03-22T15:06:30Z WARN  tmc_langs::config::projects_config] Files or directories with no config files found while loading projects from /home/tsrt/Documents/MOOC.fi: [/home/tsrt/Documents/MOOC.fi/.tmc.lock]
+
+[2025-03-22 15:06:30:064] [WARN] stderr
+[2025-03-22T15:06:30Z INFO  tmc_testmycode_client::client::api_v8] GET https://tmc.mooc.fi/api/v8/core/exercises/details
+
